@@ -1,0 +1,13 @@
+tmp
+*.pyc
+*.log
+.DS_Store
+Scripts/graph
+Scripts/maxcut/build
+Scripts/maxcut/maxcut.egg-info
+Scripts/maxcut/dist
+Scripts/updated_db
+SeKnow-PLM/scripts/backup
+models
+db_ontology.json
+requestable_values.json

@@ -1,0 +1,12 @@
+[1;32minfo[0m: loading database ../../datasets_protocol1/multiwoz-2.1/database.zip[0m
+[1;32minfo[0m: loading lexicalizer ../../datasets_protocol1/multiwoz-2.1/lexicalizer.zip[0m
+[1;32minfo[0m: loading database ../../datasets_protocol1/multiwoz-2.1/document_base.json[0m
+[1;33mwarning[0m: Some examples (40.19%) were ignored by a blacklist. (loader:38)[0m
+[1;32minfo[0m: joint goal: 0.4604, db acc: 0.6128[0m
+[1;32minfo[0m: match: 0.2671, success: 0.0601[0m
+[1;32minfo[0m: joint goal: 0.4604, db acc: 0.6128[0m
+[1;32minfo[0m: detect_p: 0.9697, detect_r: 0.8785, detect_f: 0.9218[0m
+[1;32minfo[0m: MRR@5: 0.2929, R@1: 0.2929, R@5: 0.2929[0m
+[1;32minfo[0m: inform: 0.2671, success: 0.0601[0m
+[1;32minfo[0m: bleu: 0.1544, meteor: 0.3443, rouge: 0.3676[0m
+[1;32minfo[0m: delex_bleu: 0.1612, delex_meteor: 0.3543, delex_rouge: 0.3779[0m

@@ -1,0 +1,1 @@
+python convert_results_format.py --labels_file "../../output/datasets_fully_unstructured/datasets_fully_unstructured/joint_model/test.json" --input_file "../../output/datasets_fully_unstructured/datasets_fully_unstructured/SeKnow/test-predictions.txt" --output_file "../../output/datasets_fully_unstructured/datasets_fully_unstructured/SeKnow/test.json"

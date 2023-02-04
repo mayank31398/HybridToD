@@ -1,0 +1,23260 @@
+[1;32minfo[0m: loading database ../../datasets_protocol1/multiwoz-2.1/database.zip[0m
+[1;32minfo[0m: loading lexicalizer ../../datasets_protocol1/multiwoz-2.1/lexicalizer.zip[0m
+[1;32minfo[0m: loading database ../../datasets_protocol1/multiwoz-2.1/document_base.json[0m
+[1;33mwarning[0m: Some examples (40.19%) were ignored by a blacklist. (loader:38)[0m
+[]
+['name']
+False
+
+[]
+[]
+True
+
+['address', 'area', 'type']
+[]
+False
+
+['address', 'postcode']
+['address', 'postcode']
+True
+
+['area', 'food']
+['area', 'food']
+True
+
+['food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+['address']
+['address', 'name']
+False
+
+['food', 'name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['price range']
+False
+
+['area']
+['area']
+True
+
+[]
+['area', 'type']
+False
+
+['address', 'food', 'name', 'postcode']
+['food', 'name', 'postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['area', 'name', 'type']
+['area', 'name', 'type']
+True
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+[]
+['address', 'name', 'postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'food', 'price range']
+False
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+['area', 'type']
+False
+
+['name']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+['address', 'food', 'name']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference', 'time']
+['reference']
+False
+
+['type']
+['area', 'price range', 'type']
+False
+
+['area', 'name', 'price range', 'stars']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'name', 'type']
+False
+
+['area']
+['area', 'name', 'type']
+False
+
+[]
+['area', 'name', 'type']
+False
+
+['address', 'postcode']
+['address', 'name', 'postcode']
+False
+
+[]
+[]
+True
+
+['type']
+['area']
+False
+
+['name']
+['address', 'name']
+False
+
+['area', 'food']
+[]
+False
+
+['area', 'name', 'price range']
+['area', 'food', 'name']
+False
+
+['name']
+['reference', 'time']
+False
+
+[]
+['reference']
+False
+
+['time']
+['reference']
+False
+
+['reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+['food']
+['area', 'food', 'name']
+False
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+True
+
+['name', 'price range']
+['food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference', 'time']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['area', 'name', 'stars', 'type']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['food']
+False
+
+['food', 'name']
+['area', 'food', 'name']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['type']
+[]
+False
+
+['address', 'name', 'postcode']
+['name', 'postcode']
+False
+
+['name']
+[]
+False
+
+['area']
+[]
+False
+
+[]
+['name']
+False
+
+['name']
+[]
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['food', 'name', 'phone']
+['name']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference', 'time']
+False
+
+['address', 'name']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+['phone', 'postcode']
+['phone', 'postcode']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'price range', 'stars']
+['type']
+False
+
+[]
+[]
+True
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'name', 'type']
+False
+
+['address', 'name', 'phone']
+['area', 'name', 'phone']
+False
+
+['price range', 'type']
+[]
+False
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'food', 'name']
+False
+
+['name', 'reference', 'time']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+['name', 'price range', 'stars', 'type']
+['name']
+False
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+[]
+['area', 'type']
+False
+
+['area']
+['address', 'name', 'phone', 'postcode']
+False
+
+['area', 'name']
+['area', 'type']
+False
+
+['name']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+['phone', 'postcode']
+['postcode']
+False
+
+[]
+[]
+True
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['area', 'name', 'type']
+['area']
+False
+
+['name']
+['phone']
+False
+
+[]
+[]
+True
+
+['address', 'name', 'phone']
+['area', 'type']
+False
+
+['area', 'price range']
+[]
+False
+
+['name']
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'price range']
+False
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'name', 'type']
+False
+
+['phone']
+[]
+False
+
+['area', 'name']
+['area', 'name']
+True
+
+['phone', 'postcode']
+['phone', 'postcode']
+True
+
+[]
+[]
+True
+
+['area']
+['area', 'food', 'name', 'price range']
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'name', 'price range']
+False
+
+['name']
+['area', 'name', 'price range']
+False
+
+['time']
+['reference', 'time']
+False
+
+[]
+[]
+True
+
+[]
+['reference', 'time']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['price range', 'type']
+['type']
+False
+
+[]
+['type']
+False
+
+[]
+['type']
+False
+
+['area']
+['price range', 'stars', 'type']
+False
+
+['name']
+['area', 'name', 'price range']
+False
+
+['name']
+[]
+False
+
+['address', 'name', 'phone', 'postcode']
+['phone']
+False
+
+['area', 'food', 'name', 'price range']
+[]
+False
+
+[]
+[]
+True
+
+['address']
+['address']
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['name']
+['area', 'name']
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['type']
+False
+
+['name', 'phone']
+['address', 'name', 'phone']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['stars', 'type']
+[]
+False
+
+['area', 'name']
+['name', 'type']
+False
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'type']
+['name', 'type']
+False
+
+['area', 'name', 'phone']
+['area', 'name', 'phone']
+True
+
+[]
+['food']
+False
+
+['name']
+[]
+False
+
+['phone', 'postcode']
+['name', 'phone', 'postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['type']
+False
+
+['name', 'phone', 'postcode']
+['postcode']
+False
+
+['name']
+[]
+False
+
+['name', 'phone']
+[]
+False
+
+['type']
+['type']
+True
+
+[]
+[]
+True
+
+['area', 'food', 'name', 'price range']
+['area', 'food']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['reference', 'time']
+False
+
+[]
+[]
+True
+
+['address', 'name']
+['area', 'name', 'type']
+False
+
+['area']
+['area']
+True
+
+['address']
+['address']
+True
+
+[]
+[]
+True
+
+['address', 'name']
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+[]
+['name', 'reference']
+False
+
+['address', 'type']
+[]
+False
+
+[]
+['reference']
+False
+
+['name']
+['reference']
+False
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+['type']
+['area', 'name', 'price range']
+False
+
+[]
+['area', 'name', 'price range', 'type']
+False
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+['area', 'food', 'price range']
+['area', 'name']
+False
+
+['area', 'name']
+['name']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['name', 'type']
+['area', 'type']
+False
+
+['name', 'phone', 'postcode']
+['phone', 'postcode']
+False
+
+['address', 'name']
+['address', 'name', 'postcode']
+False
+
+[]
+[]
+True
+
+['address', 'name']
+['address', 'name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+['address', 'area', 'name', 'type']
+['address']
+False
+
+['address', 'postcode']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food', 'name']
+['area', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['phone', 'postcode']
+['address', 'name', 'phone', 'postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name']
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+[]
+['reference']
+False
+
+[]
+['name', 'reference']
+False
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area']
+False
+
+['name']
+['area']
+False
+
+['phone', 'postcode']
+['address']
+False
+
+['name', 'type']
+['type']
+False
+
+[]
+[]
+True
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'stars', 'type']
+False
+
+['area', 'name']
+['name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['area', 'type']
+['type']
+False
+
+[]
+[]
+True
+
+['address', 'name', 'phone']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+['price range']
+['type']
+False
+
+['price range', 'type']
+['area', 'name']
+False
+
+['name']
+['name', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'name']
+False
+
+['name', 'phone']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name']
+False
+
+['name', 'phone']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'type']
+['address', 'area', 'name', 'type']
+False
+
+['address', 'name']
+['name']
+False
+
+['address', 'name', 'postcode']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+['name', 'reference']
+['reference']
+False
+
+['address']
+[]
+False
+
+['name']
+['type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+[]
+False
+
+['name', 'phone', 'postcode']
+['name', 'postcode']
+False
+
+['stars', 'type']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'name', 'price range']
+['price range', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+['area']
+['area']
+True
+
+['food', 'price range']
+['area', 'food']
+False
+
+['area', 'food', 'name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+[]
+False
+
+['area', 'type']
+['area']
+False
+
+[]
+['area', 'name', 'postcode']
+False
+
+['area', 'stars', 'type']
+['type']
+False
+
+['type']
+['area', 'stars', 'type']
+False
+
+['address', 'name', 'price range']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'name', 'type']
+False
+
+['name', 'postcode']
+['name', 'postcode']
+True
+
+['name']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food']
+['area', 'food']
+False
+
+['name']
+['name']
+True
+
+['address', 'phone']
+['phone']
+False
+
+['price range']
+['price range']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'reference']
+['name', 'reference', 'time']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+[]
+False
+
+['name']
+['name', 'type']
+False
+
+[]
+[]
+True
+
+['area', 'phone', 'price range']
+['price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+['name']
+['name']
+True
+
+['postcode']
+['postcode']
+True
+
+['area', 'name', 'price range', 'type']
+['price range', 'type']
+False
+
+['stars']
+[]
+False
+
+['area', 'type']
+['price range', 'stars', 'type']
+False
+
+['area', 'name', 'phone', 'type']
+['name', 'phone']
+False
+
+[]
+[]
+True
+
+['type']
+[]
+False
+
+[]
+['area', 'type']
+False
+
+[]
+['name', 'price range']
+False
+
+['area', 'name']
+['area', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['name', 'stars']
+['name', 'reference']
+False
+
+['area', 'name']
+[]
+False
+
+[]
+['name', 'reference']
+False
+
+['name']
+['name', 'reference']
+False
+
+['area', 'name', 'reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+['area']
+['area']
+True
+
+['name']
+[]
+False
+
+[]
+['food']
+False
+
+['food', 'name']
+['food']
+False
+
+['name', 'phone']
+['name', 'phone']
+True
+
+[]
+[]
+True
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+['price range', 'stars']
+['name', 'price range', 'stars', 'type']
+False
+
+['address']
+['address']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'name', 'type']
+['area', 'type']
+False
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+['price range', 'stars']
+['price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['price range']
+['type']
+False
+
+['area', 'name']
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+[]
+['name']
+False
+
+['name', 'reference']
+['reference']
+False
+
+['area', 'type']
+['area', 'type']
+True
+
+['name', 'postcode']
+['area', 'name', 'postcode']
+False
+
+['area', 'type']
+['area', 'type']
+True
+
+['address', 'name', 'type']
+['area', 'type']
+False
+
+['address', 'name', 'postcode']
+['address', 'postcode']
+False
+
+[]
+['name']
+False
+
+['area', 'name', 'stars', 'type']
+['area', 'name', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'food', 'name', 'price range']
+False
+
+['food', 'name']
+['name']
+False
+
+['reference']
+['reference']
+True
+
+[]
+['price range', 'type']
+False
+
+['name']
+['area', 'name', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['reference']
+['type']
+False
+
+[]
+[]
+True
+
+['price range', 'type']
+[]
+False
+
+['area', 'name', 'price range', 'stars', 'type']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'area', 'food', 'name', 'price range']
+['address', 'name', 'postcode']
+False
+
+['address', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+['phone', 'postcode']
+['phone', 'postcode']
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food', 'price range']
+['name']
+False
+
+[]
+['food', 'price range']
+False
+
+['name']
+['area', 'food', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['postcode']
+[]
+False
+
+[]
+['area', 'type']
+False
+
+[]
+['address', 'area', 'name', 'postcode']
+False
+
+['address', 'name']
+['name', 'postcode']
+False
+
+[]
+['postcode']
+False
+
+['address', 'postcode']
+['address', 'name', 'postcode']
+False
+
+[]
+[]
+True
+
+['area', 'food']
+['area', 'food']
+True
+
+[]
+['area', 'food']
+False
+
+['area', 'food', 'name', 'price range']
+['name']
+False
+
+[]
+[]
+True
+
+['name', 'reference']
+['name', 'reference', 'time']
+False
+
+[]
+[]
+True
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['type']
+False
+
+['address', 'name']
+['address', 'name']
+True
+
+[]
+[]
+True
+
+['area', 'price range']
+['area', 'name']
+False
+
+['area', 'food', 'name', 'price range']
+['address']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+['area', 'name']
+['address', 'area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name', 'type']
+False
+
+['price range', 'stars', 'type']
+['name', 'price range', 'stars', 'type']
+False
+
+['price range', 'stars', 'type']
+['price range']
+False
+
+[]
+['name']
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food', 'name']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference', 'time']
+['reference']
+False
+
+['type']
+['area']
+False
+
+['type']
+['area', 'type']
+False
+
+['address', 'name']
+['area', 'type']
+False
+
+['phone']
+[]
+False
+
+[]
+[]
+True
+
+['address']
+['address']
+True
+
+[]
+[]
+True
+
+['price range']
+['area', 'food', 'price range']
+False
+
+['address', 'name', 'postcode']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'area', 'name', 'phone']
+['area', 'name', 'phone', 'type']
+False
+
+['name', 'type']
+['type']
+False
+
+[]
+['food', 'price range']
+False
+
+['name', 'reference', 'time']
+['name', 'reference', 'time']
+True
+
+[]
+[]
+True
+
+['area', 'name', 'type']
+['name']
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+['address', 'area', 'name']
+['address', 'area', 'name', 'type']
+False
+
+['type']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'price range']
+False
+
+['food']
+['area', 'food']
+False
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'name']
+False
+
+['address']
+['area', 'name']
+False
+
+['name', 'phone', 'postcode']
+['phone']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+[]
+['area', 'type']
+False
+
+['name']
+['area', 'type']
+False
+
+['address', 'area', 'name']
+['area']
+False
+
+['address', 'postcode']
+['address', 'postcode']
+True
+
+['name']
+['area', 'food', 'price range']
+False
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name']
+False
+
+['price range', 'stars', 'type']
+['name']
+False
+
+['name', 'phone']
+['name']
+False
+
+[]
+['area', 'name', 'type']
+False
+
+['area', 'postcode']
+['address', 'area', 'name', 'postcode']
+False
+
+[]
+['food']
+False
+
+[]
+['area', 'name']
+False
+
+['name']
+['name']
+True
+
+['address', 'phone', 'postcode']
+['address', 'name', 'postcode']
+False
+
+['type']
+['area', 'name', 'type']
+False
+
+[]
+['area', 'name', 'phone', 'postcode']
+False
+
+['name', 'postcode']
+['area', 'name']
+False
+
+[]
+['area', 'type']
+False
+
+['address', 'name', 'postcode']
+['address', 'name', 'postcode']
+True
+
+[]
+['name']
+False
+
+[]
+['area', 'name']
+False
+
+[]
+[]
+True
+
+['stars', 'type']
+['stars']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['area']
+False
+
+['stars', 'type']
+['area']
+False
+
+[]
+['name']
+False
+
+[]
+['price range']
+False
+
+[]
+['area', 'name', 'price range', 'type']
+False
+
+['area', 'name', 'price range', 'stars', 'type']
+['type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'food', 'price range']
+False
+
+['postcode']
+['postcode']
+True
+
+['price range']
+[]
+False
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+True
+
+['phone']
+['phone']
+True
+
+[]
+['area', 'food', 'price range']
+False
+
+['area', 'food', 'price range']
+['name', 'reference']
+False
+
+['food', 'name', 'reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'price range']
+False
+
+['food']
+[]
+False
+
+['food', 'name']
+['address', 'name']
+False
+
+['area', 'food', 'name']
+['area', 'food', 'name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'food']
+[]
+False
+
+['address', 'food', 'name']
+['area', 'food', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'name']
+['address']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+['address', 'area', 'name']
+['area', 'food', 'name', 'price range']
+False
+
+['phone', 'postcode']
+[]
+False
+
+[]
+['address', 'area', 'phone']
+False
+
+['address', 'type']
+['address', 'name', 'type']
+False
+
+[]
+[]
+True
+
+['food']
+[]
+False
+
+['address', 'name', 'price range']
+['area', 'food', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'type']
+False
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+[]
+['type']
+False
+
+['area', 'name']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'phone']
+['address', 'phone']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food', 'price range']
+['food', 'price range']
+True
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+True
+
+['name', 'reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+['area', 'name']
+['area', 'name']
+True
+
+['postcode']
+['postcode']
+True
+
+['name', 'phone']
+['phone']
+False
+
+['name', 'postcode']
+['postcode']
+False
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['price range', 'type']
+['type']
+False
+
+['name', 'stars', 'type']
+['area', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'food', 'price range']
+False
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+['address', 'postcode']
+['address', 'postcode']
+True
+
+['area', 'name', 'price range', 'type']
+['area', 'name', 'price range', 'type']
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area']
+['area']
+True
+
+['name']
+[]
+False
+
+['name', 'reference']
+[]
+False
+
+[]
+['area']
+False
+
+['area', 'type']
+['area', 'type']
+True
+
+['address', 'name']
+['area', 'name', 'phone']
+False
+
+['name', 'phone']
+['phone']
+False
+
+[]
+[]
+True
+
+['price range']
+['price range']
+True
+
+[]
+['area', 'price range']
+False
+
+['name', 'postcode']
+['name']
+False
+
+['type']
+['area', 'name', 'stars', 'type']
+False
+
+['name', 'phone']
+['phone']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'price range']
+['type']
+False
+
+['name', 'price range', 'stars']
+['stars']
+False
+
+['name']
+[]
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name']
+False
+
+[]
+[]
+True
+
+['area']
+['area', 'price range']
+False
+
+[]
+['area', 'food', 'name']
+False
+
+['address', 'name']
+['address', 'name']
+True
+
+['name', 'phone']
+['postcode']
+False
+
+['area']
+['area', 'type']
+False
+
+['name', 'phone', 'postcode']
+['name', 'phone', 'postcode']
+True
+
+['name', 'phone', 'postcode']
+['name', 'phone', 'postcode']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'stars']
+[]
+False
+
+['area', 'type']
+['area', 'price range', 'type']
+False
+
+['address', 'name', 'phone', 'postcode']
+['name', 'phone', 'postcode']
+False
+
+['area', 'price range']
+['food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['stars']
+['name', 'stars']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'food', 'price range']
+['area', 'food']
+False
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['price range', 'stars', 'type']
+['name', 'price range', 'stars']
+False
+
+['area', 'name', 'stars']
+['area', 'name', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+['name', 'reference']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'name', 'price range']
+['area', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'name', 'price range']
+['area', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area']
+False
+
+['address', 'name', 'phone', 'postcode']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food', 'price range']
+['food', 'name']
+False
+
+[]
+[]
+True
+
+['price range']
+['area', 'type']
+False
+
+['name', 'price range', 'type']
+['area', 'price range', 'type']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['stars', 'type']
+[]
+False
+
+['area', 'name']
+['area', 'name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+['area', 'name', 'type']
+['area', 'name', 'type']
+True
+
+[]
+[]
+True
+
+['postcode']
+['postcode']
+True
+
+[]
+['price range', 'type']
+False
+
+['name', 'type']
+['address', 'name', 'type']
+False
+
+['area', 'name', 'price range', 'stars', 'type']
+[]
+False
+
+['area', 'name']
+['area', 'type']
+False
+
+['area', 'name']
+['area', 'name']
+True
+
+['address', 'name', 'phone']
+['phone']
+False
+
+['address', 'name', 'phone', 'postcode']
+['name']
+False
+
+['area']
+['area', 'type']
+False
+
+['price range', 'type']
+[]
+False
+
+[]
+['name', 'phone', 'price range']
+False
+
+[]
+['name', 'phone', 'price range', 'stars', 'type']
+False
+
+['address', 'name', 'phone', 'price range']
+['area', 'name', 'phone', 'price range', 'type']
+False
+
+['type']
+['type']
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['name', 'phone']
+['name', 'phone']
+True
+
+['name']
+['area', 'food', 'price range']
+False
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['name', 'type']
+False
+
+['name', 'phone']
+['name']
+False
+
+[]
+[]
+True
+
+['area', 'name']
+['area']
+False
+
+['address', 'postcode']
+['postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food', 'name', 'price range']
+['area', 'food', 'name']
+False
+
+['food', 'name', 'price range']
+[]
+False
+
+['type']
+[]
+False
+
+['area', 'name', 'type']
+['type']
+False
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['price range', 'type']
+['name', 'price range']
+False
+
+['name']
+['name']
+True
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+True
+
+[]
+[]
+True
+
+['reference']
+[]
+False
+
+['area', 'food']
+[]
+False
+
+[]
+['area', 'food', 'price range']
+False
+
+['food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['address', 'area', 'name']
+['area', 'name']
+False
+
+['postcode']
+['postcode']
+True
+
+['address']
+['address']
+True
+
+['stars']
+['area', 'price range', 'type']
+False
+
+['name']
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['name']
+['area', 'type']
+False
+
+[]
+['area', 'name', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['area', 'type']
+False
+
+[]
+['name', 'stars']
+False
+
+['area', 'price range']
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+['area', 'name', 'price range', 'stars', 'type']
+['reference']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'name', 'price range']
+[]
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area']
+[]
+False
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+['area', 'name']
+['area', 'name']
+True
+
+[]
+['area']
+False
+
+['address', 'name']
+['area', 'food']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['phone', 'postcode']
+['postcode']
+False
+
+['address']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['address', 'name']
+False
+
+['area', 'name', 'phone', 'postcode']
+['address', 'name', 'phone', 'postcode', 'type']
+False
+
+[]
+[]
+True
+
+['name']
+['name']
+True
+
+['name', 'price range']
+['price range']
+False
+
+[]
+[]
+True
+
+['area', 'name']
+['address', 'name']
+False
+
+[]
+['phone', 'postcode']
+False
+
+[]
+[]
+True
+
+['type']
+[]
+False
+
+['area', 'name', 'type']
+['name']
+False
+
+['address']
+['address']
+True
+
+[]
+[]
+True
+
+['area', 'price range']
+['name']
+False
+
+['stars']
+['stars']
+True
+
+['price range']
+['name']
+False
+
+['name', 'price range']
+['area', 'name', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+['area']
+True
+
+['address', 'name']
+['area', 'name', 'type']
+False
+
+['phone']
+[]
+False
+
+['address', 'area']
+[]
+False
+
+['postcode']
+[]
+False
+
+['type']
+['area', 'price range', 'type']
+False
+
+['name']
+['area', 'name', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['postcode', 'price range']
+['price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+['address', 'name', 'phone', 'postcode']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+['address']
+['address']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name']
+False
+
+['type']
+['name']
+False
+
+['name', 'phone', 'stars']
+['name', 'phone']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name']
+False
+
+['name', 'reference']
+['name', 'reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+['area']
+True
+
+['name']
+['name', 'type']
+False
+
+['food']
+['area', 'food']
+False
+
+['area', 'food', 'name', 'price range']
+['food']
+False
+
+['phone', 'postcode']
+['phone', 'postcode']
+True
+
+[]
+[]
+True
+
+['postcode']
+['name', 'postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['address', 'area', 'name']
+['area', 'name']
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['name', 'phone', 'postcode']
+['name', 'phone', 'postcode']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'type']
+['area', 'name', 'type']
+True
+
+['postcode']
+['postcode']
+True
+
+['food']
+['area', 'food', 'price range']
+False
+
+['address', 'name', 'postcode']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'name']
+False
+
+[]
+['area', 'type']
+False
+
+['name']
+['area', 'type']
+False
+
+['name', 'phone']
+['name', 'phone']
+True
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'name']
+['area', 'type']
+False
+
+[]
+['stars']
+False
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+[]
+['area', 'name', 'type']
+False
+
+['name', 'phone', 'postcode']
+['name', 'phone', 'postcode']
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'name', 'phone']
+['address']
+False
+
+['name']
+['area', 'type']
+False
+
+['address']
+['address', 'area', 'name', 'phone']
+False
+
+['area']
+['area', 'name']
+False
+
+['name', 'postcode']
+['postcode']
+False
+
+[]
+[]
+True
+
+['area', 'name', 'type']
+[]
+False
+
+[]
+[]
+True
+
+['address', 'name']
+[]
+False
+
+['phone', 'postcode']
+['phone', 'postcode']
+True
+
+['type']
+['type']
+True
+
+['type']
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+['address', 'name', 'stars']
+['name', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+[]
+False
+
+['area', 'type']
+['type']
+False
+
+['stars', 'type']
+['name', 'reference']
+False
+
+[]
+['name', 'reference']
+False
+
+['name']
+['address', 'name']
+False
+
+['name']
+['name']
+True
+
+['name', 'reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+['name']
+['area', 'food', 'price range']
+False
+
+[]
+[]
+True
+
+['price range']
+['price range']
+True
+
+['reference']
+['reference']
+True
+
+['reference']
+['reference']
+True
+
+['price range', 'type']
+['type']
+False
+
+['area', 'name']
+['name']
+False
+
+['phone', 'type']
+['phone', 'type']
+True
+
+['stars', 'type']
+['stars']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'price range']
+['area', 'stars']
+False
+
+[]
+['name']
+False
+
+['name']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['name', 'type']
+['type']
+False
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+['name', 'price range']
+['name', 'price range']
+True
+
+['phone', 'price range']
+['phone', 'price range']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['area', 'type']
+False
+
+['address', 'area', 'name']
+['area', 'type']
+False
+
+['address', 'name', 'phone']
+['address', 'phone']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference']
+False
+
+['area']
+['area', 'type']
+False
+
+['area', 'name']
+['name']
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+['phone']
+['phone', 'type']
+False
+
+[]
+[]
+True
+
+['name', 'reference']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'phone']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+['phone', 'postcode']
+['postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+['address', 'area', 'name']
+['address', 'area', 'name', 'type']
+False
+
+['area']
+['area', 'food']
+False
+
+['name']
+['area', 'food', 'price range']
+False
+
+[]
+['reference']
+False
+
+[]
+['reference', 'time']
+False
+
+[]
+['name', 'reference', 'time']
+False
+
+['area', 'food', 'name', 'price range']
+['name', 'reference', 'time']
+False
+
+[]
+['name', 'reference', 'time']
+False
+
+['name', 'reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name']
+False
+
+['name', 'type']
+[]
+False
+
+['area', 'name', 'type']
+['stars']
+False
+
+['address', 'name', 'phone', 'type']
+['name', 'phone']
+False
+
+['name', 'stars']
+['area', 'stars', 'type']
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'stars']
+['type']
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'food']
+False
+
+['address', 'name', 'postcode']
+['name', 'price range']
+False
+
+[]
+[]
+True
+
+['reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+['address', 'area', 'type']
+['area', 'name', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['area', 'name', 'type']
+['area', 'name', 'type']
+True
+
+[]
+['phone']
+False
+
+['phone']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'name']
+['area', 'name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['postcode']
+['postcode']
+True
+
+['name']
+['area', 'type']
+False
+
+['address', 'area']
+['address', 'area', 'name']
+False
+
+[]
+[]
+True
+
+['address', 'area', 'name']
+[]
+False
+
+[]
+[]
+True
+
+['name', 'reference']
+['reference', 'time']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+['type']
+['area', 'name', 'type']
+False
+
+[]
+['area', 'name']
+False
+
+['name']
+['name', 'postcode']
+False
+
+['name', 'postcode']
+[]
+False
+
+[]
+[]
+True
+
+['area']
+['area', 'name', 'type']
+False
+
+['address']
+['address', 'name']
+False
+
+['area', 'name', 'phone', 'type']
+[]
+False
+
+[]
+['area', 'name']
+False
+
+['area', 'type']
+['area', 'name', 'type']
+False
+
+['area', 'type']
+['area', 'name', 'type']
+False
+
+['name', 'postcode']
+['area', 'name', 'postcode', 'type']
+False
+
+[]
+[]
+True
+
+['food']
+['name']
+False
+
+['reference']
+[]
+False
+
+['area']
+['area']
+True
+
+['name']
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'name', 'type']
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'stars', 'type']
+False
+
+[]
+['type']
+False
+
+['name', 'price range', 'type']
+['area', 'type']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'price range']
+False
+
+['name', 'phone']
+['name']
+False
+
+['area', 'type']
+[]
+False
+
+['area', 'name', 'price range', 'stars']
+['name', 'price range', 'stars']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'price range']
+False
+
+['address', 'name']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name']
+[]
+False
+
+[]
+[]
+True
+
+['food', 'price range']
+[]
+False
+
+['address', 'name']
+['name']
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['price range']
+['area', 'food']
+False
+
+[]
+['name', 'reference', 'time']
+False
+
+['area', 'food', 'name', 'price range']
+['name', 'reference']
+False
+
+['area', 'food', 'name', 'price range', 'time']
+['name']
+False
+
+['name', 'reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['address', 'name']
+['name', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'stars']
+['area', 'price range', 'type']
+False
+
+['area', 'name', 'price range']
+['price range']
+False
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+['area']
+['area', 'type']
+False
+
+['area', 'type']
+['address', 'area', 'name', 'type']
+False
+
+['name', 'phone']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'stars']
+False
+
+['price range']
+['area', 'name', 'stars']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+['area']
+['area']
+True
+
+['address', 'name']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'stars', 'type']
+False
+
+['name', 'type']
+['name']
+False
+
+['type']
+['type']
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name']
+['name']
+False
+
+['area']
+['area', 'name']
+False
+
+['address', 'name', 'phone']
+['address', 'food', 'name', 'price range']
+False
+
+['address', 'name', 'phone']
+['area', 'name', 'phone', 'type']
+False
+
+['address', 'name', 'postcode', 'type']
+['name', 'type']
+False
+
+['area', 'type']
+['type']
+False
+
+['name', 'postcode']
+['area', 'name', 'postcode', 'type']
+False
+
+['area', 'price range']
+['area', 'price range']
+True
+
+[]
+['food']
+False
+
+['time']
+['name', 'reference', 'time']
+False
+
+[]
+['name', 'reference', 'time']
+False
+
+['type']
+['type']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'postcode']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['price range', 'stars', 'type']
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'area', 'name']
+['area', 'food', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference', 'time']
+False
+
+['area', 'name', 'type']
+['type']
+False
+
+['area', 'stars', 'type']
+['area', 'name', 'stars', 'type']
+False
+
+['name']
+['area', 'name', 'phone']
+False
+
+['name', 'phone', 'price range']
+['phone', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+['type']
+[]
+False
+
+['area', 'name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['reference', 'time']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'stars', 'type']
+['area', 'name']
+False
+
+['area', 'name']
+['area', 'name']
+True
+
+['stars']
+['stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+['name', 'reference']
+False
+
+[]
+['name', 'reference']
+False
+
+['type']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'type']
+['area', 'type']
+False
+
+['name']
+['address']
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+['area']
+['area', 'phone']
+False
+
+['phone']
+['phone']
+True
+
+['area', 'price range', 'stars', 'type']
+['price range', 'type']
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+['address', 'name']
+['food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'name', 'phone']
+['area', 'type']
+False
+
+['phone']
+[]
+False
+
+['address', 'postcode']
+['address']
+False
+
+[]
+[]
+True
+
+['address', 'name', 'stars']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['area', 'name']
+['area']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area']
+False
+
+['type']
+['name']
+False
+
+['name', 'stars']
+['name']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+[]
+False
+
+['name']
+['name']
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['type']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food', 'name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['area', 'type']
+['area']
+False
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+['food', 'price range']
+['food', 'price range']
+True
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'type']
+False
+
+['name', 'phone']
+['area', 'name']
+False
+
+['address', 'postcode']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'stars']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['name', 'stars', 'type']
+['type']
+False
+
+['area', 'name']
+['area', 'name']
+True
+
+[]
+[]
+True
+
+['name', 'stars', 'type']
+[]
+False
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+['name']
+['address']
+False
+
+['address', 'food', 'price range', 'type']
+['name']
+False
+
+[]
+['food', 'price range']
+False
+
+['area', 'name']
+['area', 'food', 'name', 'price range']
+False
+
+['name', 'reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food']
+['food']
+True
+
+['food']
+['food']
+True
+
+['area', 'name', 'price range']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address']
+['address']
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'type']
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['area', 'name']
+['area', 'name']
+True
+
+['phone']
+['phone']
+True
+
+['name', 'type']
+['name', 'type']
+True
+
+['postcode']
+['postcode']
+True
+
+['name']
+[]
+False
+
+['price range']
+['price range']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name']
+['area', 'name']
+True
+
+[]
+['name']
+False
+
+[]
+[]
+True
+
+['price range', 'type']
+['type']
+False
+
+['area', 'name', 'price range', 'stars', 'type']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+['area', 'name', 'price range', 'type']
+['name']
+False
+
+['address']
+[]
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+['name']
+['name']
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+[]
+['area', 'type']
+False
+
+['area', 'name', 'type']
+['area', 'type']
+False
+
+['address', 'postcode']
+['address']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'food', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference', 'time']
+False
+
+[]
+[]
+True
+
+['area', 'price range']
+['area', 'name', 'stars', 'type']
+False
+
+['food']
+['food', 'name']
+False
+
+['name']
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+[]
+['name']
+False
+
+[]
+[]
+True
+
+['area']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food']
+[]
+False
+
+[]
+['food', 'price range']
+False
+
+['food', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+['area', 'name']
+['area', 'name']
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'stars', 'type']
+['type']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['address', 'name']
+['area', 'name', 'type']
+False
+
+['address', 'phone', 'postcode']
+['address']
+False
+
+['area', 'name']
+['type']
+False
+
+['postcode']
+['address']
+False
+
+['address']
+['address', 'area', 'name']
+False
+
+[]
+['area', 'price range']
+False
+
+['name']
+['food']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['phone']
+['phone']
+True
+
+['address']
+['food', 'name']
+False
+
+[]
+['reference']
+False
+
+['type']
+['type']
+True
+
+['address', 'area', 'name']
+['address', 'area', 'name']
+True
+
+['address', 'name', 'phone']
+['area', 'food']
+False
+
+['name']
+['area', 'food', 'price range']
+False
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['address', 'name']
+['address', 'name']
+True
+
+['address', 'area', 'name']
+['type']
+False
+
+[]
+['type']
+False
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+['name', 'stars', 'type']
+['type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['address', 'area', 'name', 'phone', 'price range']
+['area', 'food', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'type']
+[]
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+['food', 'price range']
+False
+
+['name']
+['name']
+True
+
+['name', 'reference', 'time']
+[]
+False
+
+[]
+[]
+True
+
+['address', 'area', 'name']
+['area', 'type']
+False
+
+['phone', 'type']
+[]
+False
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+['address', 'area', 'name', 'type']
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'type']
+['address', 'area', 'name', 'phone', 'type']
+False
+
+['address', 'name', 'phone']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'price range']
+['area', 'food', 'name']
+False
+
+[]
+['postcode']
+False
+
+[]
+[]
+True
+
+['phone', 'postcode']
+['phone', 'postcode']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'stars', 'type']
+False
+
+[]
+['area', 'name', 'price range']
+False
+
+['address', 'name']
+['area', 'name', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'price range']
+['name', 'price range']
+False
+
+[]
+['name']
+False
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['address', 'name']
+['area', 'name']
+False
+
+['address', 'postcode']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+['area']
+['area']
+True
+
+['name', 'type']
+['area', 'name', 'type']
+False
+
+['address', 'postcode']
+['address', 'postcode']
+True
+
+['area', 'name', 'price range', 'stars', 'type']
+['name']
+False
+
+['reference']
+['reference']
+True
+
+['area', 'type']
+['area', 'name', 'type']
+False
+
+['name']
+['name']
+True
+
+['area']
+['name']
+False
+
+[]
+[]
+True
+
+['area', 'stars']
+['stars', 'type']
+False
+
+['area', 'stars']
+['area']
+False
+
+['stars']
+['area', 'name']
+False
+
+['stars', 'type']
+['name', 'reference']
+False
+
+['area', 'stars']
+['area', 'name', 'stars']
+False
+
+['address', 'name']
+['area', 'name', 'stars']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'food']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'food', 'price range']
+['area', 'food', 'name']
+False
+
+['name']
+['area', 'food', 'name']
+False
+
+['name', 'postcode']
+['postcode']
+False
+
+['price range']
+['price range']
+True
+
+['name', 'type']
+['area', 'name']
+False
+
+['address', 'name', 'phone']
+['address', 'phone', 'postcode']
+False
+
+[]
+[]
+True
+
+['name']
+['area', 'name', 'stars', 'type']
+False
+
+['name', 'postcode', 'stars']
+['postcode', 'stars']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['area', 'name']
+['area', 'name']
+True
+
+['postcode']
+[]
+False
+
+[]
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'postcode']
+['postcode', 'stars', 'type']
+False
+
+['area', 'food', 'name']
+['area', 'food', 'name']
+True
+
+['price range']
+['area', 'food', 'name']
+False
+
+[]
+['name', 'reference', 'time']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference', 'time']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['area', 'type']
+['area', 'name']
+False
+
+['address', 'name', 'phone']
+['address', 'name', 'phone']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'type']
+False
+
+['name']
+['address', 'name']
+False
+
+['address', 'postcode']
+['address']
+False
+
+[]
+[]
+True
+
+['name']
+['address', 'name', 'postcode']
+False
+
+[]
+[]
+True
+
+['address', 'name', 'postcode']
+['address', 'name', 'postcode']
+True
+
+[]
+[]
+True
+
+['food', 'price range']
+['food', 'price range']
+True
+
+['food']
+['food', 'price range']
+False
+
+['food', 'price range']
+['food', 'price range']
+True
+
+['name']
+['area', 'food', 'price range']
+False
+
+['phone', 'postcode']
+['phone']
+False
+
+['address', 'area', 'name', 'stars', 'type']
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['address', 'postcode']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['area', 'name']
+['area', 'name', 'type']
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'price range']
+False
+
+[]
+['area', 'name', 'price range']
+False
+
+['price range', 'type']
+['price range', 'type']
+True
+
+['area']
+['area', 'name', 'price range', 'type']
+False
+
+['area', 'name', 'stars', 'type']
+['area', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+['area', 'price range']
+False
+
+['name']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'name', 'stars', 'type']
+[]
+False
+
+['area', 'name', 'stars', 'type']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+[]
+['reference']
+False
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+['type']
+['area', 'type']
+False
+
+['area', 'name']
+['area', 'type']
+False
+
+['address', 'name', 'postcode']
+['address', 'postcode']
+False
+
+['type']
+[]
+False
+
+['name', 'type']
+['type']
+False
+
+['name', 'stars']
+['stars']
+False
+
+[]
+['area', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+['price range']
+['name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+['name', 'reference']
+False
+
+[]
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+[]
+['reference']
+False
+
+['name', 'reference']
+['name', 'reference']
+True
+
+[]
+[]
+True
+
+['area', 'name']
+['area', 'name']
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food']
+['area', 'food']
+False
+
+['food', 'name']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'name']
+['address', 'name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['price range', 'stars', 'type']
+['name', 'price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['price range', 'type']
+['type']
+False
+
+[]
+['name', 'price range', 'type']
+False
+
+['area', 'name']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food', 'name']
+['address', 'area', 'food', 'name', 'price range']
+False
+
+['address', 'phone']
+['address', 'phone']
+True
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['food']
+['area', 'food']
+False
+
+['name']
+[]
+False
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['time']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['price range', 'stars']
+['name', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['area']
+False
+
+['name']
+['area', 'type']
+False
+
+['name', 'phone']
+['area', 'name', 'phone', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'price range', 'type']
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+['name', 'stars']
+['name', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'food', 'price range']
+['area', 'food']
+False
+
+['food', 'name', 'phone', 'postcode']
+['area', 'food', 'name', 'phone', 'postcode']
+False
+
+[]
+[]
+True
+
+[]
+['stars', 'type']
+False
+
+[]
+[]
+True
+
+['type']
+['stars', 'type']
+False
+
+[]
+['stars', 'type']
+False
+
+[]
+['reference']
+False
+
+['stars', 'type']
+[]
+False
+
+['area', 'name', 'price range', 'type']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['name']
+True
+
+['postcode']
+['name', 'postcode']
+False
+
+[]
+['area', 'name', 'type']
+False
+
+['address', 'name', 'postcode']
+['address', 'name', 'postcode']
+True
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+['area', 'name']
+['area', 'name']
+True
+
+[]
+[]
+True
+
+['time']
+['reference', 'time']
+False
+
+['reference']
+['reference']
+True
+
+['name', 'price range', 'type']
+['area', 'name', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+['address']
+['address', 'area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+['name']
+['area']
+False
+
+['postcode']
+['area', 'postcode']
+False
+
+['name']
+['area', 'food']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food', 'price range']
+['area', 'food', 'price range']
+False
+
+['food']
+['area', 'food']
+False
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference', 'time']
+False
+
+['area']
+['area', 'type']
+False
+
+['name']
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+['area', 'name', 'price range', 'stars', 'type']
+['area', 'name', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['phone', 'postcode']
+['phone']
+False
+
+[]
+[]
+True
+
+[]
+['area']
+False
+
+['price range']
+['area', 'food', 'name', 'price range']
+False
+
+['area', 'name', 'price range']
+['area', 'name', 'price range']
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name']
+False
+
+[]
+['area']
+False
+
+['address', 'name', 'phone', 'postcode']
+['address', 'name', 'phone', 'postcode']
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['price range', 'type']
+False
+
+['area', 'name', 'price range', 'type']
+['name']
+False
+
+[]
+[]
+True
+
+['name']
+['name', 'reference']
+False
+
+[]
+['area', 'food']
+False
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+['reference', 'time']
+['reference', 'time']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'food', 'name', 'price range']
+['name']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['name']
+['name']
+True
+
+['address', 'area', 'name']
+['area']
+False
+
+['address', 'name', 'phone']
+[]
+False
+
+['area', 'food', 'name', 'price range']
+[]
+False
+
+['name', 'phone', 'postcode']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['price range']
+['type']
+False
+
+['name']
+['stars']
+False
+
+['address', 'name', 'type']
+['address']
+False
+
+['address', 'name', 'phone', 'postcode']
+['address', 'area', 'name']
+False
+
+[]
+[]
+True
+
+['name']
+['area', 'food']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'type']
+False
+
+['postcode']
+[]
+False
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'price range']
+False
+
+[]
+['name']
+False
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food']
+['area', 'food', 'price range']
+False
+
+['area', 'food']
+[]
+False
+
+['area', 'food', 'name']
+['area', 'food', 'name']
+True
+
+[]
+[]
+True
+
+['reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+['name']
+['price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['address', 'area', 'name', 'phone', 'postcode', 'price range', 'stars', 'type']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+['reference']
+[]
+False
+
+['name', 'stars', 'type']
+[]
+False
+
+[]
+['area', 'name', 'price range']
+False
+
+['price range', 'type']
+['area', 'name', 'price range']
+False
+
+['name', 'stars']
+['name', 'stars']
+True
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'name', 'phone']
+['area', 'name', 'type']
+False
+
+['postcode']
+['postcode']
+True
+
+['food']
+['food']
+True
+
+['area', 'price range']
+['name']
+False
+
+['name', 'reference']
+[]
+False
+
+[]
+['area', 'price range']
+False
+
+['area', 'food']
+[]
+False
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+[]
+['reference']
+False
+
+['food', 'name', 'price range']
+['name', 'reference']
+False
+
+[]
+['reference', 'time']
+False
+
+['reference', 'time']
+['reference', 'time']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'food', 'price range']
+['food', 'name']
+False
+
+['address', 'area', 'name', 'price range']
+['name']
+False
+
+[]
+['reference']
+False
+
+[]
+['reference']
+False
+
+['time']
+['reference']
+False
+
+[]
+['name', 'reference', 'time']
+False
+
+[]
+['food']
+False
+
+[]
+[]
+True
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+['type']
+['area', 'stars', 'type']
+False
+
+['name']
+['area', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name', 'reference']
+False
+
+[]
+['name', 'reference']
+False
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'price range']
+False
+
+['name']
+['area', 'food', 'price range']
+False
+
+['reference']
+['reference']
+True
+
+[]
+['area', 'type']
+False
+
+['address', 'area', 'name']
+['address', 'area', 'name', 'type']
+False
+
+['postcode']
+['postcode']
+True
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+[]
+['price range', 'type']
+False
+
+['area', 'price range', 'type']
+['area', 'name', 'price range', 'type']
+False
+
+['name', 'postcode', 'stars', 'type']
+['area', 'name', 'postcode', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['name']
+['price range', 'type']
+False
+
+[]
+[]
+True
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+['address', 'name']
+['area']
+False
+
+[]
+[]
+True
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['address', 'name']
+False
+
+['area', 'name']
+['area', 'name']
+True
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['name']
+['area', 'name', 'type']
+False
+
+['name', 'phone']
+['phone']
+False
+
+['name', 'type']
+['area', 'name', 'price range', 'type']
+False
+
+['name', 'reference']
+['name', 'reference']
+True
+
+[]
+[]
+True
+
+['area', 'name']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['price range', 'type']
+['area', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['phone', 'price range']
+['name', 'phone', 'price range']
+False
+
+[]
+['area']
+False
+
+['name', 'price range']
+['area', 'name', 'type']
+False
+
+['food', 'name']
+['area', 'name', 'price range']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'name', 'type']
+['address', 'area', 'name', 'type']
+False
+
+['postcode']
+['postcode']
+True
+
+['area', 'name', 'price range', 'stars', 'type']
+['area', 'name', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['price range', 'type']
+False
+
+[]
+['name', 'price range']
+False
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'phone', 'postcode', 'price range', 'type']
+['area', 'postcode']
+False
+
+['name']
+['name']
+True
+
+['phone', 'postcode']
+['address', 'phone', 'postcode']
+False
+
+[]
+['area', 'type']
+False
+
+['name']
+['name', 'price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['area', 'name', 'type']
+['area', 'name', 'type']
+True
+
+['type']
+['name', 'type']
+False
+
+['area']
+['area']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'food']
+False
+
+[]
+['name', 'reference', 'time']
+False
+
+['area', 'food', 'name', 'price range']
+['area', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['phone', 'postcode']
+['phone']
+False
+
+[]
+['type']
+False
+
+['name', 'price range']
+['area', 'name']
+False
+
+['name', 'reference']
+['name', 'reference']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+['type']
+['type']
+True
+
+['name', 'reference']
+['name', 'reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+['reference']
+['name', 'reference', 'time']
+False
+
+['stars', 'type']
+['stars', 'type']
+True
+
+['area', 'name']
+['name']
+False
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+['area', 'name']
+['area', 'name']
+True
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+['type']
+[]
+False
+
+[]
+['type']
+False
+
+['name', 'price range', 'stars']
+['area', 'name', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+['food', 'price range']
+False
+
+['food']
+[]
+False
+
+['food']
+['area', 'food', 'price range']
+False
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+['name', 'reference']
+['name', 'reference']
+True
+
+['stars', 'type']
+['stars', 'type']
+True
+
+['name']
+['area', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['phone', 'postcode']
+['area', 'name', 'price range', 'type']
+False
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'name', 'price range', 'type']
+['type']
+False
+
+['area', 'name']
+['name', 'price range', 'type']
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'food', 'price range']
+False
+
+['area']
+['name']
+False
+
+['name', 'reference']
+[]
+False
+
+[]
+[]
+True
+
+['area']
+['area', 'food', 'name', 'price range']
+False
+
+['name']
+['food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+['address', 'area', 'name']
+['name']
+False
+
+['address']
+['address']
+True
+
+[]
+[]
+True
+
+['type']
+['area']
+False
+
+['name', 'phone']
+['area', 'name', 'phone', 'type']
+False
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['stars', 'type']
+['name', 'price range', 'stars']
+False
+
+['area', 'price range', 'stars', 'type']
+['price range']
+False
+
+['name']
+['name']
+True
+
+['address', 'type']
+['address']
+False
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+['name', 'stars']
+['type']
+False
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+['name', 'reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['address', 'area', 'name', 'postcode', 'type']
+False
+
+[]
+['name', 'postcode']
+False
+
+['address', 'name', 'postcode']
+['area']
+False
+
+[]
+[]
+True
+
+['area', 'price range', 'type']
+['type']
+False
+
+['address', 'name']
+['name']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'price range']
+['price range', 'type']
+False
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'type']
+False
+
+['name']
+['phone']
+False
+
+['area', 'type']
+['area', 'name', 'type']
+False
+
+['address']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+['name']
+['area', 'name', 'type']
+False
+
+['area', 'name']
+['area', 'name', 'type']
+False
+
+['address', 'name', 'phone']
+['phone']
+False
+
+['area', 'food']
+['area', 'food']
+True
+
+['food', 'name']
+['area', 'food', 'price range']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['food', 'price range']
+False
+
+[]
+['area', 'food', 'name', 'price range']
+False
+
+['name']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+['phone']
+['phone', 'postcode']
+False
+
+[]
+[]
+True
+
+['address', 'area']
+['area', 'name', 'price range', 'type']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+['name']
+['area', 'name', 'stars']
+False
+
+['reference']
+['reference']
+True
+
+[]
+['area', 'name', 'price range']
+False
+
+['area', 'name']
+['name']
+False
+
+['reference']
+['reference']
+True
+
+[]
+['name', 'reference']
+False
+
+['name']
+['area', 'food', 'name']
+False
+
+[]
+['name', 'reference', 'time']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference', 'time']
+['reference', 'time']
+True
+
+[]
+[]
+True
+
+['address', 'name']
+['area', 'food', 'name']
+False
+
+['area']
+['area', 'food', 'name', 'price range']
+False
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'price range', 'stars', 'type']
+False
+
+['area', 'name']
+['area', 'name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'name', 'price range']
+[]
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food', 'price range']
+['food', 'price range']
+True
+
+[]
+['name']
+False
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'price range']
+False
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+['price range']
+['price range']
+True
+
+['name', 'price range']
+['area', 'name']
+False
+
+['name']
+['stars']
+False
+
+['area', 'phone']
+['area', 'name', 'phone']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'price range']
+False
+
+['food', 'name', 'price range']
+[]
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'food']
+False
+
+['area', 'food', 'name']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['phone']
+['name', 'phone']
+False
+
+['area', 'phone', 'type']
+['address', 'phone', 'postcode']
+False
+
+['area']
+['type']
+False
+
+['area', 'name', 'phone']
+['name', 'phone']
+False
+
+['area', 'price range']
+[]
+False
+
+['area', 'food', 'price range']
+['area', 'food']
+False
+
+['food']
+['name']
+False
+
+['name']
+['area', 'food', 'price range']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'reference']
+False
+
+['food']
+['name']
+False
+
+['name', 'reference']
+['name']
+False
+
+[]
+[]
+True
+
+['area', 'name', 'price range']
+['area', 'price range']
+False
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['name', 'stars']
+False
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+['postcode']
+[]
+False
+
+[]
+[]
+True
+
+[]
+['area', 'food', 'price range']
+False
+
+[]
+['name', 'reference']
+False
+
+[]
+['name', 'reference', 'time']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['address', 'area', 'name', 'phone', 'postcode', 'type']
+['address', 'name', 'phone', 'postcode']
+False
+
+['address', 'name', 'phone', 'postcode']
+['name']
+False
+
+['address', 'area', 'name']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+[]
+['price range', 'type']
+False
+
+[]
+['name']
+False
+
+['price range']
+[]
+False
+
+['name', 'stars']
+['name', 'stars', 'type']
+False
+
+['name', 'price range']
+['name', 'price range']
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['address', 'area', 'name', 'phone', 'postcode']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+['area', 'price range']
+['area']
+False
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name']
+False
+
+[]
+[]
+True
+
+['area', 'price range']
+['area']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['address', 'name']
+['area', 'price range', 'type']
+False
+
+['address', 'phone']
+['postcode']
+False
+
+['postcode']
+['postcode']
+True
+
+['name', 'price range', 'stars']
+['area', 'type']
+False
+
+[]
+['name']
+False
+
+['area', 'name', 'price range']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['postcode']
+['postcode']
+True
+
+['name']
+[]
+False
+
+[]
+['area', 'type']
+False
+
+['address', 'area', 'name']
+['area', 'type']
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+['type']
+False
+
+['area', 'type']
+['area', 'type']
+True
+
+['name', 'type']
+['area', 'type']
+False
+
+['area', 'name', 'postcode']
+['area', 'name', 'postcode']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'price range']
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'food']
+['area', 'food']
+True
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+['name', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+['reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+[]
+['area', 'name', 'price range']
+False
+
+['name']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'name', 'postcode', 'price range', 'stars']
+['type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['address', 'name', 'phone']
+['area', 'price range', 'type']
+False
+
+['area', 'price range', 'type']
+['area', 'name', 'type']
+False
+
+[]
+['area', 'name', 'price range', 'type']
+False
+
+['name', 'stars']
+['name', 'stars']
+True
+
+['name']
+['postcode']
+False
+
+[]
+[]
+True
+
+['area', 'name', 'type']
+['area', 'name', 'type']
+True
+
+[]
+['address']
+False
+
+['area']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'price range', 'type']
+['name', 'price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'phone', 'postcode']
+['address', 'phone']
+False
+
+[]
+[]
+True
+
+['area', 'name']
+[]
+False
+
+['address']
+['address']
+True
+
+[]
+['area', 'food', 'name']
+False
+
+['address', 'name', 'price range']
+['area', 'food', 'name']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'type']
+[]
+False
+
+['type']
+['address', 'name']
+False
+
+['name']
+['area', 'name', 'type']
+False
+
+[]
+['name']
+False
+
+['area', 'price range', 'type']
+['name', 'price range', 'stars', 'type']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'food', 'name', 'price range']
+[]
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['address', 'phone', 'postcode']
+['address', 'area', 'name']
+False
+
+['area', 'type']
+['area']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+['address', 'name']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'stars']
+['area', 'name']
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'name']
+['name']
+False
+
+[]
+[]
+True
+
+['price range']
+['price range']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['phone']
+['name', 'phone']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+['area', 'type']
+False
+
+['area', 'type']
+['area', 'name', 'type']
+False
+
+['name']
+['area', 'name', 'type']
+False
+
+['area', 'name', 'type']
+['area', 'type']
+False
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+['area', 'name']
+['type']
+False
+
+['name']
+['address', 'name', 'postcode']
+False
+
+['address', 'name', 'price range']
+['name']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'price range']
+False
+
+['name', 'phone']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+['name']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['address', 'name']
+['name', 'phone', 'type']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'type']
+False
+
+['name']
+['address', 'name']
+False
+
+['address']
+['address']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['price range', 'type']
+['price range', 'type']
+True
+
+[]
+['area', 'name', 'price range']
+False
+
+['area', 'type']
+['name', 'price range', 'stars', 'type']
+False
+
+['stars']
+['name', 'stars', 'type']
+False
+
+['name']
+['name']
+True
+
+[]
+['address']
+False
+
+[]
+[]
+True
+
+['address']
+['address']
+True
+
+[]
+[]
+True
+
+['name']
+['name']
+True
+
+['address', 'name', 'phone']
+['address', 'phone']
+False
+
+['type']
+['area']
+False
+
+['address', 'area', 'name', 'phone']
+['address', 'name', 'phone']
+False
+
+[]
+[]
+True
+
+['food']
+['area', 'food', 'price range']
+False
+
+['food', 'price range']
+[]
+False
+
+['name']
+['area', 'food', 'price range']
+False
+
+[]
+[]
+True
+
+['name', 'reference']
+['reference', 'time']
+False
+
+['type']
+[]
+False
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'type']
+['stars', 'type']
+False
+
+['name', 'price range', 'stars']
+['area', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+['area', 'type']
+False
+
+['area', 'name']
+['area', 'type']
+False
+
+['address', 'postcode']
+['area', 'postcode', 'type']
+False
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+[]
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+['type']
+['area', 'type']
+False
+
+['area', 'name']
+['address', 'name', 'postcode']
+False
+
+['name', 'type']
+['address', 'name', 'phone', 'postcode']
+False
+
+['address', 'name', 'phone']
+['address']
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+['area', 'food']
+False
+
+[]
+['area', 'food', 'price range']
+False
+
+['name', 'type']
+['food', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['type']
+['type']
+True
+
+['price range', 'type']
+['area']
+False
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['area', 'price range', 'type']
+['area', 'price range', 'type']
+True
+
+['area', 'name', 'price range', 'stars', 'type']
+['name']
+False
+
+[]
+['name']
+False
+
+['area', 'price range', 'type']
+['name']
+False
+
+['area', 'name', 'price range']
+['name']
+False
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'food', 'name']
+[]
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'food']
+False
+
+['food', 'name', 'price range']
+['area', 'food', 'price range']
+False
+
+['phone']
+['name', 'phone']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'price range']
+[]
+False
+
+['address', 'phone', 'postcode']
+['address', 'name', 'phone']
+False
+
+[]
+[]
+True
+
+['food', 'price range']
+['food', 'price range']
+True
+
+[]
+['area', 'food', 'price range']
+False
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+True
+
+['reference']
+['reference']
+True
+
+['price range']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+['address', 'name', 'postcode']
+['area', 'name']
+False
+
+['phone', 'postcode']
+['phone', 'postcode']
+True
+
+['type']
+['type']
+True
+
+['name']
+['area', 'name']
+False
+
+['phone']
+['phone']
+True
+
+['postcode']
+['postcode']
+True
+
+['name']
+['area']
+False
+
+['area', 'name']
+['area', 'name']
+True
+
+['area', 'name', 'phone', 'postcode']
+['phone', 'postcode']
+False
+
+[]
+[]
+True
+
+['address', 'postcode', 'price range', 'stars']
+['name', 'price range', 'stars']
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address']
+['food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference', 'time']
+False
+
+['reference', 'time']
+['reference', 'time']
+True
+
+[]
+['area', 'type']
+False
+
+['area', 'name']
+['area', 'type']
+False
+
+['name']
+['phone']
+False
+
+['phone']
+['phone']
+True
+
+['area', 'type']
+['area', 'name', 'type']
+False
+
+['name']
+['name']
+True
+
+['area', 'food']
+['area', 'food']
+True
+
+['address', 'name']
+['area', 'food', 'name', 'price range']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area']
+['area']
+True
+
+['name']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+['name', 'price range', 'stars']
+['type']
+False
+
+['price range', 'type']
+['type']
+False
+
+['address', 'area', 'name', 'postcode']
+['area', 'name', 'price range', 'type']
+False
+
+['name']
+['name']
+True
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'food', 'name', 'price range']
+['area', 'food', 'name']
+False
+
+['address', 'postcode']
+['address', 'area', 'postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name']
+['type']
+False
+
+['area', 'name', 'price range']
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+['stars', 'type']
+['area', 'name']
+False
+
+['price range']
+['price range', 'type']
+False
+
+['price range', 'stars', 'type']
+['name', 'price range']
+False
+
+['name', 'type']
+['price range', 'stars', 'type']
+False
+
+['name', 'phone']
+['name', 'phone']
+True
+
+[]
+[]
+True
+
+['name', 'price range', 'type']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'food']
+['area', 'food']
+True
+
+['name', 'postcode', 'price range']
+['area', 'food', 'name', 'postcode', 'price range']
+False
+
+['name', 'type']
+['area', 'type']
+False
+
+['address', 'name', 'phone', 'postcode', 'type']
+['postcode']
+False
+
+['name', 'stars']
+['name']
+False
+
+['name']
+['price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['postcode']
+['postcode']
+True
+
+['name', 'type']
+['type']
+False
+
+['name', 'type']
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+['area']
+['area', 'name', 'type']
+False
+
+['area']
+['area', 'name', 'type']
+False
+
+['address', 'name', 'phone']
+['name', 'phone']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'food']
+False
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+['address', 'name']
+False
+
+['area', 'name', 'price range', 'stars']
+['area', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+[]
+['price range', 'type']
+False
+
+['type']
+['name']
+False
+
+['area', 'stars']
+['area', 'name', 'price range', 'stars']
+False
+
+['name', 'price range', 'type']
+['area', 'price range', 'stars', 'type']
+False
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+['name', 'phone', 'postcode']
+['area', 'type']
+False
+
+['address', 'phone', 'postcode']
+['address']
+False
+
+['type']
+['type']
+True
+
+['type']
+['name', 'postcode']
+False
+
+['name']
+['name', 'postcode']
+False
+
+['address', 'area', 'phone', 'postcode']
+['name', 'postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'postcode']
+['name', 'postcode']
+True
+
+[]
+['area']
+False
+
+[]
+['name', 'time']
+False
+
+['name', 'time']
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area']
+False
+
+['area', 'name']
+['type']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area']
+False
+
+['postcode']
+['postcode']
+True
+
+['name']
+['food', 'price range']
+False
+
+[]
+['area', 'name']
+False
+
+[]
+['name', 'reference']
+False
+
+['area', 'name']
+['area']
+False
+
+['area', 'food']
+['name', 'reference']
+False
+
+['name', 'price range']
+['name']
+False
+
+['name', 'reference', 'time']
+['name', 'reference', 'time']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'price range']
+False
+
+['food', 'name']
+['area', 'food', 'name', 'price range']
+False
+
+['name', 'time']
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'food', 'name', 'price range']
+['price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+[]
+['reference']
+False
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['area', 'name', 'type']
+['area', 'type']
+False
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+[]
+['name']
+False
+
+['name', 'stars', 'type']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+['name', 'reference']
+['name', 'reference']
+True
+
+['price range']
+['price range', 'stars']
+False
+
+['name']
+['type']
+False
+
+['address']
+['address']
+True
+
+['name']
+['area', 'food', 'price range']
+False
+
+[]
+[]
+True
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+['price range']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food', 'price range']
+['food', 'price range']
+True
+
+[]
+['area', 'name', 'price range']
+False
+
+['time']
+['reference', 'time']
+False
+
+['reference', 'time']
+['reference', 'time']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'area', 'name', 'type']
+['address', 'name']
+False
+
+['area', 'name', 'type']
+['area', 'type']
+False
+
+['address', 'postcode']
+['area', 'postcode']
+False
+
+['address', 'area']
+['area']
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'food', 'price range']
+False
+
+['food']
+[]
+False
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+True
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+['area']
+['area', 'type']
+False
+
+['address', 'name']
+['type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['address', 'phone']
+False
+
+['address']
+['area']
+False
+
+['area']
+['area']
+True
+
+[]
+['name']
+False
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+['name']
+['area', 'name']
+False
+
+['name', 'phone']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address']
+['area', 'food', 'name']
+False
+
+['address', 'price range']
+['address', 'food', 'price range']
+False
+
+[]
+[]
+True
+
+['area', 'name', 'price range', 'stars', 'type']
+['area', 'name', 'price range', 'stars', 'type']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'price range']
+False
+
+['address', 'name']
+['name', 'reference', 'time']
+False
+
+[]
+[]
+True
+
+['name', 'reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+['area', 'name']
+['type']
+False
+
+[]
+[]
+True
+
+['name']
+['stars']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+[]
+['price range']
+False
+
+[]
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['name', 'price range', 'stars', 'type']
+['name']
+False
+
+['address', 'name']
+['area', 'name']
+False
+
+['area', 'name']
+['area', 'name']
+True
+
+['type']
+[]
+False
+
+['area', 'type']
+['area', 'type']
+True
+
+['name']
+['address', 'area', 'name', 'type']
+False
+
+[]
+['postcode']
+False
+
+['postcode']
+['postcode']
+True
+
+['area', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'name', 'price range', 'stars']
+False
+
+[]
+['name']
+False
+
+['name', 'phone']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address']
+['area', 'food']
+False
+
+[]
+[]
+True
+
+['area', 'price range']
+['area', 'price range']
+True
+
+['name', 'price range', 'type']
+['area']
+False
+
+[]
+['address', 'postcode']
+False
+
+['address', 'name']
+['area', 'name', 'type']
+False
+
+['phone']
+['phone']
+True
+
+['area', 'name', 'price range', 'type']
+['area', 'name', 'price range', 'type']
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'price range']
+False
+
+['name']
+['area', 'food', 'name']
+False
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+['food']
+False
+
+['area', 'name']
+['name']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'phone', 'type']
+['address', 'area', 'name', 'phone', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'name', 'price range', 'stars']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+[]
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['price range']
+['area', 'food']
+False
+
+['name', 'postcode']
+['address', 'name', 'postcode']
+False
+
+[]
+[]
+True
+
+['address']
+['address', 'name']
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['name', 'type']
+False
+
+['address', 'name']
+['area', 'name', 'type']
+False
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+['name']
+['area', 'food', 'name']
+False
+
+['name', 'reference']
+['reference']
+False
+
+['type']
+['type']
+True
+
+['name']
+['type']
+False
+
+['area', 'name', 'price range', 'stars']
+['stars']
+False
+
+['address', 'stars']
+['name', 'postcode', 'stars', 'type']
+False
+
+['address', 'postcode']
+['address', 'postcode']
+True
+
+['name']
+['area', 'food']
+False
+
+['name']
+['price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+[]
+False
+
+['name']
+['food', 'price range']
+False
+
+[]
+[]
+True
+
+['reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+['area', 'name', 'price range']
+False
+
+['address', 'area']
+['address', 'area', 'name']
+False
+
+[]
+[]
+True
+
+['area', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+[]
+False
+
+['food', 'name', 'price range']
+['name']
+False
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference', 'time']
+False
+
+['area', 'name']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+['food']
+[]
+False
+
+['area', 'food']
+['food', 'name', 'price range']
+False
+
+['name', 'phone', 'postcode']
+['phone', 'postcode']
+False
+
+['food']
+['food']
+True
+
+['name', 'reference']
+['name']
+False
+
+['name', 'type']
+['area', 'type']
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name']
+False
+
+['price range', 'type']
+['name']
+False
+
+['area', 'name', 'stars']
+[]
+False
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['area', 'name', 'price range']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['phone', 'postcode']
+['phone', 'postcode']
+True
+
+[]
+[]
+True
+
+['area']
+['area', 'food', 'price range']
+False
+
+['name']
+['name']
+True
+
+['address', 'name', 'phone', 'postcode']
+['name', 'phone']
+False
+
+[]
+['address', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+['reference']
+[]
+False
+
+[]
+['area', 'type']
+False
+
+[]
+['area', 'name', 'type']
+False
+
+['name']
+['address', 'name']
+False
+
+['postcode']
+['phone', 'postcode']
+False
+
+['address', 'name']
+['food']
+False
+
+[]
+['reference']
+False
+
+[]
+['price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference', 'time']
+False
+
+['area', 'name']
+['area', 'name']
+True
+
+['postcode']
+['postcode']
+True
+
+['name']
+['food', 'name', 'price range']
+False
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+['area']
+False
+
+['name']
+['area']
+False
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+[]
+['type']
+False
+
+[]
+[]
+True
+
+['name']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+['area', 'type']
+False
+
+['stars']
+['price range']
+False
+
+[]
+['price range', 'type']
+False
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['area']
+['area']
+True
+
+['name', 'phone']
+['area', 'name', 'type']
+False
+
+['postcode']
+['name']
+False
+
+['area', 'price range', 'type']
+[]
+False
+
+['type']
+['area', 'name', 'type']
+False
+
+['name', 'price range', 'stars']
+[]
+False
+
+['price range', 'stars', 'type']
+['area', 'name', 'stars']
+False
+
+['name', 'phone']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'food', 'price range']
+False
+
+['food']
+['area', 'food']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference', 'time']
+False
+
+[]
+[]
+True
+
+['area', 'price range', 'type']
+['type']
+False
+
+['price range', 'type']
+['area', 'name']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'name']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+[]
+['name', 'reference']
+False
+
+[]
+['reference']
+False
+
+[]
+['name']
+False
+
+['name']
+['area', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+['name', 'phone']
+['area', 'name', 'type']
+False
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+['food', 'name']
+['name']
+False
+
+[]
+[]
+True
+
+['reference', 'time']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['address', 'name', 'postcode']
+['address', 'name', 'postcode']
+True
+
+['type']
+['area', 'type']
+False
+
+['name']
+[]
+False
+
+['name', 'type']
+['area', 'name', 'price range', 'type']
+False
+
+['price range', 'stars', 'type']
+['name', 'stars']
+False
+
+[]
+['address', 'name']
+False
+
+['area', 'name']
+['area', 'name', 'price range']
+False
+
+['stars', 'type']
+[]
+False
+
+['name', 'type']
+['name']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['food']
+['area', 'food', 'price range']
+False
+
+['name', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+['type']
+False
+
+['type']
+['type']
+True
+
+['price range']
+['area', 'name', 'price range']
+False
+
+['name']
+['name']
+True
+
+['name', 'price range', 'type']
+[]
+False
+
+[]
+[]
+True
+
+[]
+['name', 'reference']
+False
+
+[]
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['type']
+False
+
+['name', 'price range']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['price range']
+['type']
+False
+
+['name', 'stars']
+['name', 'price range']
+False
+
+['phone']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'food']
+['area', 'food']
+True
+
+[]
+['address', 'name']
+False
+
+['area', 'food', 'name', 'price range']
+['name']
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['price range', 'type']
+['area', 'name', 'price range']
+False
+
+['area', 'price range', 'type']
+['name', 'type']
+False
+
+['area', 'name', 'price range', 'type']
+['area', 'name', 'type']
+False
+
+['address', 'phone', 'postcode']
+['address', 'phone', 'postcode']
+True
+
+['area', 'name', 'phone', 'postcode', 'price range']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area']
+False
+
+['area', 'name', 'type']
+['name', 'postcode', 'type']
+False
+
+['type']
+['type']
+True
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+['price range']
+['area', 'food']
+False
+
+['name']
+['name']
+True
+
+['address', 'postcode']
+['address', 'postcode']
+True
+
+[]
+['area', 'food', 'name', 'price range']
+False
+
+['name', 'reference', 'time']
+['reference', 'time']
+False
+
+[]
+[]
+True
+
+['area', 'name', 'stars']
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['food', 'price range']
+False
+
+['food', 'price range']
+['name']
+False
+
+[]
+['name']
+False
+
+['area', 'name', 'price range']
+['area', 'name', 'stars', 'type']
+False
+
+['name', 'price range', 'stars', 'type']
+['area', 'name', 'type']
+False
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'type']
+['type']
+False
+
+['postcode']
+['postcode']
+True
+
+['area']
+['area']
+True
+
+[]
+['area', 'food']
+False
+
+['food', 'name']
+['area', 'food']
+False
+
+['name', 'price range']
+['price range']
+False
+
+[]
+[]
+True
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+['stars']
+['area', 'stars', 'type']
+False
+
+['name']
+['area', 'name', 'stars']
+False
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['address', 'name', 'phone', 'postcode']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['stars', 'type']
+['price range', 'stars', 'type']
+False
+
+['postcode']
+['postcode']
+True
+
+['area', 'name', 'type']
+['area', 'type']
+False
+
+['area', 'name', 'type']
+['area', 'name', 'type']
+True
+
+['address', 'name', 'postcode']
+['address']
+False
+
+[]
+[]
+True
+
+['area', 'food']
+['area']
+False
+
+['area', 'name', 'price range']
+['area', 'food', 'price range']
+False
+
+[]
+['area', 'food']
+False
+
+['address', 'postcode']
+[]
+False
+
+[]
+[]
+True
+
+['name']
+['name', 'type']
+False
+
+[]
+[]
+True
+
+['area', 'postcode']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+['area']
+['area', 'name']
+False
+
+['name', 'postcode']
+['postcode']
+False
+
+['price range', 'type']
+['area', 'name', 'stars']
+False
+
+['name']
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+['stars']
+['stars']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['postcode', 'price range']
+['postcode']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'price range']
+False
+
+['name']
+['name']
+True
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+['name']
+['type']
+False
+
+['price range', 'type']
+['area', 'name', 'stars', 'type']
+False
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+['area', 'name', 'price range', 'stars']
+['area', 'name']
+False
+
+['name', 'reference']
+[]
+False
+
+['area']
+['area']
+True
+
+['name', 'type']
+['area', 'name', 'type']
+False
+
+['phone', 'postcode']
+['phone', 'postcode']
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['area', 'name']
+['area', 'name', 'type']
+False
+
+['address']
+['address']
+True
+
+[]
+['food', 'price range']
+False
+
+['area', 'food', 'price range']
+['food', 'price range']
+False
+
+['name', 'reference']
+['name', 'reference', 'time']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'food']
+['area', 'food']
+True
+
+['area', 'name', 'price range', 'reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['food', 'price range']
+False
+
+[]
+['price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+['area', 'type']
+False
+
+['area', 'name', 'price range', 'type']
+['area', 'name', 'price range', 'type']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['area', 'name', 'type']
+[]
+False
+
+[]
+['name']
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'type']
+False
+
+['address', 'name']
+['address']
+False
+
+['address', 'phone', 'postcode']
+['address', 'phone']
+False
+
+['area', 'food']
+['food', 'name']
+False
+
+['price range']
+['area', 'food', 'name', 'price range']
+False
+
+['name']
+['name', 'price range']
+False
+
+['reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'price range', 'type']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['name']
+['name', 'stars']
+False
+
+[]
+[]
+True
+
+['address', 'name', 'phone']
+['address']
+False
+
+[]
+[]
+True
+
+['name', 'type']
+['area', 'type']
+False
+
+['phone']
+['phone']
+True
+
+['area']
+['area']
+True
+
+['name', 'reference']
+['name', 'reference', 'time']
+False
+
+[]
+[]
+True
+
+['type']
+['area', 'type']
+False
+
+['area', 'name', 'type']
+['area', 'type']
+False
+
+['address', 'phone', 'postcode']
+['address', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['type']
+False
+
+['address', 'name', 'postcode']
+['type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['stars']
+False
+
+['type']
+['area', 'type']
+False
+
+['area', 'name']
+['area', 'name', 'type']
+False
+
+['address', 'area']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['type']
+False
+
+['name', 'phone']
+['area', 'name']
+False
+
+['name']
+['address', 'name']
+False
+
+['area']
+['area']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'food']
+['area', 'food']
+True
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference', 'time']
+False
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+[]
+['area', 'name', 'price range', 'type']
+False
+
+[]
+['name', 'reference']
+False
+
+[]
+['name']
+False
+
+[]
+['reference']
+False
+
+['name']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+['name', 'price range', 'type']
+['name', 'type']
+False
+
+[]
+['stars']
+False
+
+['type']
+['area', 'name']
+False
+
+['price range']
+['name', 'price range', 'type']
+False
+
+[]
+['name']
+False
+
+['address', 'name', 'postcode']
+['area', 'name', 'price range']
+False
+
+[]
+['area', 'food', 'name', 'price range']
+False
+
+['address', 'area', 'name', 'phone']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'food']
+False
+
+[]
+['name']
+False
+
+[]
+['name', 'reference', 'time']
+False
+
+['name']
+['reference', 'time']
+False
+
+[]
+[]
+True
+
+['area']
+['area']
+True
+
+['address', 'name']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['address', 'name']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+['area', 'food', 'name', 'price range']
+False
+
+['address', 'postcode']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+['address', 'name']
+['area', 'name', 'type']
+False
+
+[]
+['postcode']
+False
+
+[]
+['area', 'food', 'name', 'postcode']
+False
+
+['food', 'name', 'postcode', 'price range']
+['area', 'food']
+False
+
+[]
+[]
+True
+
+['name', 'postcode']
+['postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'area', 'name', 'type']
+['type']
+False
+
+[]
+[]
+True
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'name', 'type']
+False
+
+['address', 'name']
+['area', 'type']
+False
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+[]
+['food', 'price range']
+False
+
+['address', 'area', 'food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference', 'time']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name']
+['area']
+False
+
+['address']
+['address']
+True
+
+[]
+[]
+True
+
+['name']
+['area']
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name']
+['area', 'name']
+True
+
+[]
+[]
+True
+
+['food', 'price range']
+['food', 'price range']
+True
+
+[]
+['food']
+False
+
+['area', 'food', 'name']
+['name']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+[]
+False
+
+['name', 'price range', 'stars']
+['price range', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+['stars']
+['name']
+False
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'reference']
+[]
+False
+
+['area', 'name']
+['type']
+False
+
+['area', 'name']
+['area']
+False
+
+[]
+[]
+True
+
+['name']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+['address']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+['name', 'reference', 'time']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+['name', 'postcode']
+['name', 'postcode']
+True
+
+[]
+[]
+True
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+['area', 'food', 'name', 'price range']
+False
+
+['name']
+['name', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['name', 'time']
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+True
+
+[]
+[]
+True
+
+['reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+['price range', 'type']
+False
+
+['name', 'price range']
+['price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['address', 'name', 'stars']
+['address', 'name', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'stars']
+['stars', 'type']
+False
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+['address', 'name']
+['area', 'type']
+False
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'type']
+False
+
+[]
+['name']
+False
+
+['area', 'type']
+['type']
+False
+
+['name']
+['area', 'name', 'type']
+False
+
+['name']
+['address', 'phone', 'postcode']
+False
+
+[]
+[]
+True
+
+['name']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+['area', 'price range']
+['area', 'price range']
+True
+
+['food', 'name']
+['name']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'price range']
+False
+
+['name']
+['area', 'food', 'name']
+False
+
+['reference']
+['reference']
+True
+
+['name']
+['area', 'name']
+False
+
+['phone']
+['name', 'phone']
+False
+
+[]
+[]
+True
+
+['area']
+['area']
+True
+
+['food', 'name', 'postcode']
+['area', 'food', 'name', 'price range']
+False
+
+['address', 'area', 'name', 'phone', 'postcode']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+['food', 'name']
+['area', 'food', 'name']
+False
+
+['name']
+['area', 'food']
+False
+
+['food']
+['name', 'price range']
+False
+
+['address', 'postcode']
+['name', 'postcode']
+False
+
+[]
+[]
+True
+
+['type']
+['name']
+False
+
+['name']
+['area', 'name', 'stars', 'type']
+False
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+['name']
+['area', 'name', 'stars']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['name']
+['type']
+False
+
+['area', 'type']
+['area', 'type']
+True
+
+['area', 'name']
+['area', 'name']
+True
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+['food']
+['area', 'food', 'price range']
+False
+
+['name', 'phone', 'postcode']
+['area', 'food', 'name', 'postcode']
+False
+
+[]
+[]
+True
+
+['area']
+['area']
+True
+
+['area', 'type']
+['area', 'name', 'type']
+False
+
+['address', 'food', 'name', 'price range']
+['area', 'food', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference', 'time']
+False
+
+[]
+[]
+True
+
+['area', 'name', 'type']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+['name', 'phone']
+[]
+False
+
+[]
+[]
+True
+
+['name']
+['area', 'name', 'stars']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+[]
+['type']
+False
+
+['address', 'name', 'postcode', 'price range', 'type']
+['address', 'area', 'name', 'postcode', 'price range', 'type']
+False
+
+['area', 'name', 'type']
+['area', 'name', 'type']
+True
+
+['name']
+['name']
+True
+
+['price range']
+['area', 'price range']
+False
+
+[]
+['name']
+False
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+['food', 'price range']
+False
+
+[]
+[]
+True
+
+['name']
+['name']
+True
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+['address']
+['address']
+True
+
+['name', 'stars']
+['name', 'stars']
+True
+
+[]
+[]
+True
+
+['area', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name']
+['type']
+False
+
+['area', 'name', 'phone', 'stars']
+['area', 'name', 'phone', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area']
+False
+
+['name', 'phone']
+['name', 'phone', 'type']
+False
+
+[]
+[]
+True
+
+['area', 'price range']
+[]
+False
+
+['stars']
+['area', 'name']
+False
+
+['name']
+['type']
+False
+
+['address', 'postcode', 'reference']
+['reference']
+False
+
+[]
+['area']
+False
+
+['food']
+['area', 'food']
+False
+
+['food', 'name']
+['area', 'food']
+False
+
+[]
+[]
+True
+
+['address', 'postcode', 'price range']
+['price range']
+False
+
+[]
+[]
+True
+
+['area', 'type']
+['area']
+False
+
+['name']
+['area', 'name']
+False
+
+['address', 'postcode']
+['address', 'phone', 'postcode']
+False
+
+['area', 'name', 'type']
+['area', 'name', 'type']
+True
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+['postcode']
+['postcode']
+True
+
+['name', 'stars']
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference', 'time']
+False
+
+[]
+[]
+True
+
+['type']
+['area', 'type']
+False
+
+['name']
+['name']
+True
+
+['type']
+['type']
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['area', 'name', 'price range', 'stars']
+['stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference']
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'name', 'type']
+['area']
+False
+
+['area', 'type']
+['area', 'type']
+True
+
+['name']
+['area', 'type']
+False
+
+['name', 'postcode']
+['postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+['food']
+['food']
+True
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+['area', 'name', 'type']
+['area', 'name', 'type']
+True
+
+[]
+[]
+True
+
+['name', 'phone']
+['phone']
+False
+
+['food', 'price range']
+['food', 'price range']
+True
+
+['name']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+['time']
+['reference']
+False
+
+['stars']
+[]
+False
+
+['name']
+['area', 'name', 'price range']
+False
+
+[]
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+['name', 'reference']
+[]
+False
+
+[]
+['type']
+False
+
+['area', 'name', 'type']
+['area', 'name', 'type']
+True
+
+['food']
+['food']
+True
+
+['food', 'name', 'price range']
+['area', 'food']
+False
+
+[]
+[]
+True
+
+['name', 'phone']
+['phone']
+False
+
+[]
+[]
+True
+
+['area', 'type']
+['address', 'area', 'name', 'phone']
+False
+
+['name', 'postcode']
+['postcode']
+False
+
+[]
+[]
+True
+
+['postcode', 'type']
+['postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'stars', 'type']
+False
+
+['address', 'name', 'type']
+['address', 'type']
+False
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name', 'reference', 'time']
+False
+
+['reference']
+['name', 'reference', 'time']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+['food']
+['area', 'food']
+False
+
+['food', 'name', 'price range']
+['area', 'food', 'name']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'reference']
+False
+
+['reference']
+['reference', 'time']
+False
+
+[]
+['type']
+False
+
+['area', 'name']
+['price range']
+False
+
+[]
+['reference']
+False
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'price range', 'stars']
+False
+
+['price range']
+['area', 'name']
+False
+
+[]
+['area', 'name']
+False
+
+['type']
+['type']
+True
+
+['area', 'type']
+['area', 'name']
+False
+
+['price range']
+['name']
+False
+
+['name']
+['type']
+False
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'area', 'name']
+['area', 'food', 'name', 'price range']
+False
+
+['address', 'name']
+['phone']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['phone']
+['area', 'name', 'type']
+False
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['type']
+['address', 'area', 'name', 'type']
+False
+
+['area', 'name']
+['area', 'name']
+True
+
+[]
+[]
+True
+
+['area', 'food']
+['area', 'food']
+True
+
+['area', 'food']
+[]
+False
+
+[]
+['area', 'food', 'name']
+False
+
+['food', 'name']
+['food', 'name']
+True
+
+[]
+['area']
+False
+
+['name', 'reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['type']
+False
+
+['name', 'postcode']
+['name', 'postcode']
+True
+
+[]
+[]
+True
+
+['area', 'name', 'type']
+['name']
+False
+
+['area', 'name']
+['name', 'price range', 'stars']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['phone', 'postcode']
+['phone', 'postcode']
+True
+
+['address', 'food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+['address', 'area', 'food', 'name', 'postcode', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+['area', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'area']
+['area', 'name']
+False
+
+[]
+['type']
+False
+
+[]
+['type']
+False
+
+['area']
+[]
+False
+
+[]
+['name']
+False
+
+['name']
+['area', 'stars']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'price range', 'type']
+False
+
+['name']
+['area', 'name', 'price range', 'type']
+False
+
+['stars']
+['name', 'stars']
+False
+
+['address', 'phone']
+['phone', 'postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'name', 'type']
+False
+
+['name', 'phone']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'price range', 'type']
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['name']
+True
+
+['postcode']
+['name', 'postcode']
+False
+
+['area', 'price range', 'type']
+[]
+False
+
+['price range']
+['name', 'price range']
+False
+
+[]
+['name', 'price range', 'stars']
+False
+
+['name', 'price range', 'stars']
+['name', 'price range', 'stars']
+True
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+['address', 'price range', 'stars', 'type']
+['name', 'stars']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+[]
+['address', 'name', 'postcode']
+False
+
+['address', 'postcode']
+['address', 'postcode']
+True
+
+['food']
+['food', 'price range']
+False
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+['area', 'name']
+['area']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['name']
+['name']
+True
+
+['address', 'phone', 'postcode']
+['postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'name', 'type']
+False
+
+['area', 'name']
+['area', 'type']
+False
+
+['phone', 'postcode']
+['name', 'phone']
+False
+
+['area']
+['area']
+True
+
+['area', 'name', 'type']
+['area', 'name', 'type']
+True
+
+['phone']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['address', 'area', 'name']
+['area', 'type']
+False
+
+['phone']
+['phone']
+True
+
+['area', 'type']
+['area']
+False
+
+['address', 'name', 'postcode']
+['address', 'area', 'name', 'postcode', 'type']
+False
+
+['name']
+[]
+False
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'phone']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'name']
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+['area', 'name', 'price range', 'type']
+['type']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'food', 'price range']
+False
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['food', 'name']
+['food']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['phone', 'postcode']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+['name', 'price range']
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['price range', 'type']
+False
+
+['area', 'name', 'stars']
+['area', 'name', 'price range', 'type']
+False
+
+[]
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+['address', 'area', 'name', 'type']
+['address', 'name']
+False
+
+['area']
+['area', 'food', 'name', 'price range']
+False
+
+['time']
+['name', 'reference', 'time']
+False
+
+['reference']
+['reference']
+True
+
+['area', 'name']
+['area', 'food', 'name']
+False
+
+['name', 'type']
+['area', 'name', 'stars']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['price range', 'type']
+['price range', 'type']
+True
+
+[]
+['area', 'name', 'price range']
+False
+
+['type']
+['name']
+False
+
+['name']
+['area', 'name', 'stars', 'type']
+False
+
+['name', 'phone', 'postcode', 'stars']
+[]
+False
+
+[]
+[]
+True
+
+['area']
+['area', 'name']
+False
+
+['name', 'phone']
+['area', 'name', 'phone']
+False
+
+['area', 'price range']
+['area', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'phone', 'postcode']
+['area', 'name', 'type']
+False
+
+['area', 'name']
+[]
+False
+
+['type']
+['name', 'type']
+False
+
+['area', 'name', 'type']
+['type']
+False
+
+['area', 'name', 'price range', 'stars', 'type']
+['area', 'price range', 'type']
+False
+
+['area']
+['area', 'type']
+False
+
+['name']
+['area', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'name', 'type']
+False
+
+['address', 'name']
+['address']
+False
+
+[]
+['area', 'name']
+False
+
+['food']
+['area', 'food']
+False
+
+['name']
+['area', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['price range']
+['name', 'price range']
+False
+
+['address']
+['address', 'name']
+False
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+['postcode']
+['postcode']
+True
+
+['price range', 'stars', 'type']
+['area', 'name', 'price range', 'type']
+False
+
+['name', 'price range']
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['address', 'name', 'price range', 'type']
+['area', 'name', 'type']
+False
+
+['name', 'phone']
+['phone']
+False
+
+[]
+[]
+True
+
+['area', 'name']
+['type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'price range']
+False
+
+[]
+['name']
+False
+
+['name']
+['food', 'name']
+False
+
+['reference']
+['reference']
+True
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+['name', 'reference', 'time']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['area', 'name', 'type']
+False
+
+['address', 'name']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+['name', 'postcode']
+['area', 'name', 'postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['type']
+['type']
+True
+
+['name', 'phone', 'postcode']
+['name', 'phone']
+False
+
+[]
+['area', 'type']
+False
+
+['type']
+['area', 'price range', 'type']
+False
+
+['name', 'reference']
+['name', 'reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'food', 'name']
+False
+
+['address', 'phone']
+['name']
+False
+
+[]
+[]
+True
+
+['reference', 'time']
+[]
+False
+
+['address', 'name', 'phone', 'postcode']
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'price range', 'type']
+['price range', 'type']
+False
+
+[]
+[]
+True
+
+['area', 'name']
+['food']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area']
+False
+
+['address', 'name']
+['name']
+False
+
+['food']
+['food', 'price range']
+False
+
+['area']
+['area']
+True
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['area', 'name', 'postcode']
+['area', 'name', 'postcode']
+True
+
+[]
+['type']
+False
+
+['address', 'name', 'price range']
+['area', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['type']
+['price range', 'type']
+False
+
+['name']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'price range']
+['area', 'food', 'price range']
+False
+
+['food', 'name']
+['area', 'food']
+False
+
+['area', 'food', 'price range']
+[]
+False
+
+['name']
+['name', 'postcode']
+False
+
+['name', 'postcode']
+['address']
+False
+
+[]
+[]
+True
+
+['area']
+['address', 'area', 'price range']
+False
+
+['reference', 'time']
+[]
+False
+
+[]
+['price range']
+False
+
+[]
+[]
+True
+
+['name', 'stars', 'type']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['postcode']
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'phone']
+[]
+False
+
+[]
+[]
+True
+
+['food', 'price range']
+['area', 'food', 'price range']
+False
+
+['address', 'food', 'name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['name']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+['area', 'food', 'name', 'price range']
+['address', 'name', 'phone']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['area']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'food']
+False
+
+['food', 'name']
+['area', 'food', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['type']
+False
+
+['name']
+['area', 'name', 'price range', 'type']
+False
+
+[]
+['reference']
+False
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'phone']
+['name', 'phone']
+False
+
+[]
+[]
+True
+
+['stars', 'type']
+['name', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+[]
+['type']
+False
+
+['stars', 'type']
+['area', 'name']
+False
+
+['area', 'stars']
+['area', 'stars', 'type']
+False
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['area', 'type']
+['area', 'name']
+False
+
+['address', 'name']
+['address', 'area', 'name']
+False
+
+['area']
+['area', 'name']
+False
+
+['address']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'food', 'name']
+False
+
+['area', 'food']
+[]
+False
+
+['name']
+['area', 'food', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area']
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+['address', 'name', 'postcode']
+['name', 'postcode']
+False
+
+['name', 'phone']
+['phone']
+False
+
+['area', 'price range', 'type']
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'name']
+['area']
+False
+
+['address']
+['address', 'type']
+False
+
+['food', 'price range']
+['food', 'price range']
+True
+
+['food']
+['area', 'food', 'price range']
+False
+
+['name']
+['area', 'food', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+['type']
+['area']
+False
+
+['name', 'phone']
+['name', 'phone']
+True
+
+[]
+[]
+True
+
+[]
+['area']
+False
+
+['area', 'name']
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+['type']
+['area', 'price range', 'type']
+False
+
+['type']
+['area', 'name', 'price range', 'type']
+False
+
+[]
+['name', 'reference']
+False
+
+['name', 'reference']
+['name', 'reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['name', 'postcode']
+['area', 'name']
+False
+
+['area', 'name', 'price range']
+['type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference']
+False
+
+[]
+['area', 'type']
+False
+
+['type']
+['address', 'name']
+False
+
+['name', 'phone']
+['name']
+False
+
+['area', 'price range']
+['area', 'price range', 'type']
+False
+
+['stars', 'type']
+['area', 'name', 'stars']
+False
+
+['address', 'name', 'phone', 'postcode', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+['area', 'food']
+['food', 'price range']
+False
+
+['area', 'food']
+['area', 'food', 'name', 'price range']
+False
+
+['name']
+['name']
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['food', 'price range']
+False
+
+['name', 'phone']
+['area', 'food', 'name', 'phone', 'price range']
+False
+
+['name', 'stars']
+['stars', 'type']
+False
+
+[]
+[]
+True
+
+['price range', 'type']
+['price range']
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+['area']
+True
+
+['postcode']
+['postcode']
+True
+
+['area', 'name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['price range', 'stars', 'type']
+False
+
+['type']
+[]
+False
+
+['type']
+['name']
+False
+
+[]
+[]
+True
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'food', 'name', 'price range']
+False
+
+['food']
+['food']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'price range', 'stars', 'type']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'food']
+['area']
+False
+
+['area', 'food']
+['name']
+False
+
+['name', 'phone']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['area', 'name']
+['address', 'area', 'name']
+False
+
+[]
+[]
+True
+
+['name', 'postcode', 'type']
+['postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'food']
+['name']
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+['phone', 'reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+['type']
+['area']
+False
+
+['address', 'name', 'postcode', 'type']
+['name', 'price range', 'stars', 'type']
+False
+
+['price range']
+['price range']
+True
+
+[]
+[]
+True
+
+['name', 'stars']
+[]
+False
+
+['name']
+['area', 'name', 'stars', 'type']
+False
+
+['name', 'phone', 'stars']
+['area', 'name', 'phone', 'stars', 'type']
+False
+
+['address', 'area', 'phone']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+['name']
+['address', 'area', 'name', 'type']
+False
+
+['name', 'phone']
+['name', 'postcode']
+False
+
+[]
+['name']
+False
+
+[]
+[]
+True
+
+['stars', 'type']
+[]
+False
+
+['area', 'type']
+['area', 'name', 'stars', 'type']
+False
+
+[]
+['address', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name', 'reference']
+False
+
+[]
+['reference']
+False
+
+['stars', 'type']
+['name', 'reference']
+False
+
+[]
+['name', 'reference']
+False
+
+['name']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+[]
+False
+
+['area', 'name']
+['area']
+False
+
+['address', 'phone', 'postcode']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+['address', 'name', 'phone', 'postcode']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+['area']
+False
+
+['type']
+['area', 'type']
+False
+
+['name']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+['area', 'type']
+['type']
+False
+
+['area', 'type']
+['area', 'name', 'type']
+False
+
+[]
+['name']
+False
+
+['address', 'name', 'type']
+['name']
+False
+
+[]
+['address', 'area', 'name', 'phone', 'postcode', 'type']
+False
+
+['area', 'name', 'price range', 'stars', 'type']
+['address', 'area', 'name', 'phone', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+['type']
+['area', 'type']
+False
+
+['area', 'name', 'postcode']
+['area', 'name', 'postcode']
+True
+
+['area', 'food']
+[]
+False
+
+['area', 'name']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['type']
+['area']
+False
+
+['area', 'name', 'type']
+['address', 'area', 'name', 'postcode', 'type']
+False
+
+['address', 'postcode']
+['address', 'postcode']
+True
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'name', 'price range']
+['area', 'food', 'name']
+False
+
+['name']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'type']
+False
+
+['name']
+['area', 'type']
+False
+
+['stars']
+['stars']
+True
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'name', 'reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'phone', 'postcode']
+['postcode']
+False
+
+['name']
+['phone']
+False
+
+['price range']
+['area']
+False
+
+['food', 'name', 'price range']
+['name']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+[]
+['area', 'type']
+False
+
+['address', 'name']
+['address', 'name']
+True
+
+['name', 'postcode']
+['phone', 'postcode']
+False
+
+[]
+[]
+True
+
+['price range', 'type']
+['price range', 'type']
+True
+
+['name']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+['area', 'postcode']
+['address', 'area', 'name']
+False
+
+['phone']
+['name', 'phone']
+False
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['area', 'name', 'type']
+['name']
+False
+
+[]
+[]
+True
+
+['reference', 'time']
+['reference']
+False
+
+['type']
+['stars', 'type']
+False
+
+['name']
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['area', 'type']
+['area', 'name']
+False
+
+['address', 'area', 'name', 'postcode']
+['area', 'name']
+False
+
+[]
+['area', 'food', 'price range']
+False
+
+['area', 'food', 'name']
+['area', 'food', 'price range']
+False
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+['area', 'name', 'price range']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['price range']
+['area', 'price range']
+False
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['type']
+['area', 'type']
+False
+
+['name']
+['area', 'name', 'type']
+False
+
+['address']
+[]
+False
+
+['area', 'type']
+['area', 'name', 'stars', 'type']
+False
+
+['name']
+['type']
+False
+
+['name', 'type']
+[]
+False
+
+['name']
+['type']
+False
+
+['type']
+['type']
+True
+
+['type']
+['name', 'type']
+False
+
+[]
+['price range', 'type']
+False
+
+['name', 'postcode']
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name']
+['area', 'food']
+False
+
+['area']
+[]
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'food', 'price range']
+False
+
+['area', 'food', 'name']
+['area', 'food', 'name']
+True
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'name']
+[]
+False
+
+[]
+['name', 'price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['name']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['name', 'reference']
+['reference']
+False
+
+['name', 'type']
+['address', 'name']
+False
+
+['phone']
+['area', 'phone']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+['area']
+True
+
+['address', 'area', 'name']
+['area', 'name', 'type']
+False
+
+['phone']
+['phone']
+True
+
+['area', 'name']
+['area']
+False
+
+['phone']
+['area']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'postcode']
+[]
+False
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'type']
+False
+
+['address', 'name', 'phone']
+['phone']
+False
+
+[]
+[]
+True
+
+['postcode']
+['postcode']
+True
+
+['area']
+['area', 'price range']
+False
+
+['area', 'food']
+['area', 'name', 'price range']
+False
+
+['address', 'name']
+['area', 'food', 'name', 'price range']
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+['food']
+['food']
+True
+
+['name']
+['food', 'price range']
+False
+
+[]
+[]
+True
+
+['area', 'name']
+['area', 'type']
+False
+
+[]
+['name']
+False
+
+['food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+['area', 'postcode']
+['address', 'area', 'name', 'postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['price range', 'type']
+['price range', 'type']
+True
+
+['name']
+['area', 'name', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+['area', 'food']
+False
+
+['area', 'name', 'price range']
+[]
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'area', 'food', 'name', 'phone', 'price range']
+['address', 'phone']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food']
+[]
+False
+
+['area']
+[]
+False
+
+['area', 'food', 'name']
+['area', 'food']
+False
+
+['reference']
+['reference', 'time']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'stars', 'type']
+False
+
+['name']
+['area']
+False
+
+[]
+[]
+True
+
+['name', 'reference']
+['name', 'reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'phone', 'type']
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name']
+['area', 'name', 'price range', 'stars']
+False
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+['area']
+True
+
+['address', 'name', 'type']
+['area']
+False
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+[]
+['type']
+False
+
+['name']
+['type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'name']
+['address', 'name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['address', 'area', 'name', 'type']
+['area', 'name', 'type']
+False
+
+['postcode']
+['postcode']
+True
+
+['type']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'food']
+['area', 'food']
+True
+
+[]
+['name']
+False
+
+['area', 'food', 'price range']
+['area', 'food', 'name']
+False
+
+[]
+['reference']
+False
+
+['name', 'reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+['area', 'type']
+[]
+False
+
+['name', 'stars']
+['area', 'name', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+['address']
+['address']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'area', 'name']
+['address']
+False
+
+['area', 'food', 'price range']
+[]
+False
+
+['address', 'area', 'name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['address', 'area', 'name', 'type']
+['address', 'phone']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['address', 'name', 'postcode']
+False
+
+['name']
+['name', 'postcode']
+False
+
+[]
+['name']
+False
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name']
+['area', 'name', 'type']
+False
+
+['phone', 'postcode']
+['phone', 'postcode']
+True
+
+['name', 'stars']
+['name', 'stars', 'type']
+False
+
+['area']
+[]
+False
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['area', 'name', 'type']
+False
+
+['name']
+['area', 'name']
+False
+
+['area']
+['area', 'name']
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+['area', 'name', 'postcode', 'type']
+['name', 'postcode']
+False
+
+['area']
+[]
+False
+
+['name']
+['area', 'food', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'name']
+['address', 'name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'postcode']
+['address']
+False
+
+[]
+[]
+True
+
+['address', 'area', 'type']
+['address', 'area', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'food']
+False
+
+['area', 'name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['area', 'name']
+['area', 'name']
+True
+
+['reference']
+['reference']
+True
+
+['price range', 'type']
+['area', 'type']
+False
+
+['name', 'price range', 'stars']
+['area', 'name', 'price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+[]
+['name']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['area']
+['food', 'price range']
+False
+
+[]
+[]
+True
+
+['area', 'name']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference', 'time']
+False
+
+['price range']
+['area', 'food', 'name']
+False
+
+['address', 'name', 'reference', 'time']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'price range']
+False
+
+['food', 'name', 'postcode']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'food', 'price range']
+['food', 'price range']
+False
+
+['area', 'name']
+['area', 'name']
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['type']
+['area', 'type']
+False
+
+['area', 'type']
+['address', 'name']
+False
+
+['area', 'name', 'postcode', 'type']
+['name', 'postcode']
+False
+
+['phone']
+[]
+False
+
+[]
+[]
+True
+
+['address', 'name']
+['area']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['area', 'name', 'price range']
+False
+
+['type']
+['area', 'name']
+False
+
+['name']
+['area', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['name']
+True
+
+['reference']
+[]
+False
+
+['postcode']
+['postcode']
+True
+
+['name', 'type']
+[]
+False
+
+['postcode']
+['postcode']
+True
+
+['name']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+['area']
+['address', 'name']
+False
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'price range', 'type']
+False
+
+['reference']
+['reference']
+True
+
+['area', 'food', 'price range']
+['area', 'food']
+False
+
+['name', 'reference']
+['name', 'reference']
+True
+
+[]
+[]
+True
+
+['food']
+['food']
+True
+
+[]
+['food', 'name', 'price range']
+False
+
+['food']
+['name']
+False
+
+['name']
+['name']
+True
+
+['reference']
+[]
+False
+
+[]
+['type']
+False
+
+['reference']
+['area', 'name', 'price range', 'type']
+False
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['price range', 'type']
+['area', 'type']
+False
+
+['price range', 'stars', 'type']
+['area', 'type']
+False
+
+['name', 'phone']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'food', 'name', 'price range']
+[]
+False
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference', 'time']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+[]
+False
+
+['type']
+['address', 'name']
+False
+
+['area', 'name']
+['name']
+False
+
+['address', 'phone', 'postcode']
+['phone', 'postcode']
+False
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+['name', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+['name', 'reference', 'time']
+['reference']
+False
+
+['area']
+[]
+False
+
+[]
+['food', 'price range']
+False
+
+['area', 'name']
+[]
+False
+
+['reference']
+[]
+False
+
+['area', 'name', 'type']
+['area', 'type']
+False
+
+['name']
+['name']
+True
+
+['name']
+['food', 'price range']
+False
+
+[]
+[]
+True
+
+['phone', 'postcode']
+['phone', 'postcode']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'food']
+False
+
+['area', 'food']
+['area', 'food', 'name', 'price range']
+False
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+['name', 'price range', 'stars']
+['type']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+['food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+['area']
+['area']
+True
+
+['name', 'type']
+['area', 'type']
+False
+
+['address', 'phone']
+[]
+False
+
+[]
+['type']
+False
+
+['address', 'area', 'name']
+['area', 'type']
+False
+
+['postcode']
+['postcode']
+True
+
+['area', 'name', 'price range']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area']
+False
+
+['area', 'type']
+['name']
+False
+
+['name']
+['name', 'type']
+False
+
+['area']
+[]
+False
+
+[]
+['name']
+False
+
+['name', 'type']
+[]
+False
+
+['postcode']
+['phone']
+False
+
+[]
+[]
+True
+
+['area', 'food', 'price range']
+['area', 'food']
+False
+
+['area', 'name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'reference', 'time']
+['reference', 'time']
+False
+
+['name', 'type']
+['area']
+False
+
+['address']
+[]
+False
+
+['area', 'food']
+['area', 'food', 'name']
+False
+
+['area', 'food', 'name']
+['area', 'food']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'phone']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['area', 'type']
+False
+
+['name']
+['address', 'area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['food', 'price range']
+False
+
+['area', 'food', 'price range']
+[]
+False
+
+['address', 'name', 'phone', 'postcode']
+['address', 'name', 'postcode']
+False
+
+[]
+[]
+True
+
+['area', 'food']
+['area', 'food']
+True
+
+['area', 'food', 'name']
+['area', 'food', 'name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'reference', 'time']
+['reference']
+False
+
+['name']
+['area', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+['type']
+False
+
+['address', 'area', 'name', 'phone', 'postcode']
+['area', 'name']
+False
+
+['food']
+['area', 'food']
+False
+
+['price range']
+['area', 'food']
+False
+
+[]
+['reference']
+False
+
+['address', 'name', 'phone', 'time']
+['name', 'reference', 'time']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'stars', 'type']
+['area', 'type']
+False
+
+['name']
+['name']
+True
+
+['name', 'postcode', 'price range']
+['name', 'postcode', 'price range']
+True
+
+['name']
+['area', 'name', 'price range']
+False
+
+['postcode', 'price range']
+['postcode', 'price range']
+True
+
+[]
+[]
+True
+
+['address', 'area', 'name', 'price range', 'type']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['name']
+['name']
+True
+
+['postcode']
+['postcode']
+True
+
+[]
+['name']
+False
+
+['name', 'type']
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['name', 'type']
+False
+
+['type']
+['name']
+False
+
+['name']
+['name']
+True
+
+['price range']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'name']
+['area', 'food', 'price range']
+False
+
+['name', 'phone']
+['name', 'phone']
+True
+
+[]
+[]
+True
+
+['area', 'name', 'phone']
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+['price range']
+['food']
+False
+
+['name']
+['name']
+True
+
+['phone']
+['address', 'phone', 'postcode']
+False
+
+[]
+[]
+True
+
+['address', 'postcode']
+['address', 'postcode']
+True
+
+[]
+[]
+True
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['phone', 'postcode']
+['phone', 'postcode']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['name', 'phone', 'postcode']
+['name', 'phone']
+False
+
+['area', 'price range', 'type']
+['area', 'name', 'type']
+False
+
+['price range', 'type']
+['name']
+False
+
+['address', 'name', 'postcode', 'price range']
+['name', 'postcode']
+False
+
+['area', 'name', 'type']
+['area', 'type']
+False
+
+['price range']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'food']
+['area', 'price range']
+False
+
+['food']
+[]
+False
+
+['area', 'name']
+['area', 'food']
+False
+
+[]
+[]
+True
+
+[]
+['reference', 'time']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference', 'time']
+['reference']
+False
+
+['address', 'name']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+['name', 'phone']
+['phone']
+False
+
+[]
+[]
+True
+
+['name']
+['area', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+['price range', 'type']
+['area', 'type']
+False
+
+['name']
+['area', 'name', 'price range', 'type']
+False
+
+['address', 'phone', 'postcode']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'price range']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'postcode']
+['postcode']
+False
+
+['area', 'type']
+['area']
+False
+
+['name']
+['address', 'area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['name', 'price range', 'stars', 'type']
+['area', 'name', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+['name']
+['area', 'type']
+False
+
+['address', 'name', 'phone']
+['address', 'phone']
+False
+
+[]
+['area', 'food']
+False
+
+['food', 'price range']
+['area', 'food']
+False
+
+['area', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'reference', 'time']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name']
+['area']
+False
+
+['type']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['address', 'name']
+['area', 'name', 'type']
+False
+
+[]
+['phone']
+False
+
+['area', 'name', 'price range']
+['area', 'name', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['stars', 'type']
+False
+
+['area', 'type']
+['name']
+False
+
+['name']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+['name']
+False
+
+['name']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+['area', 'name']
+False
+
+['name', 'reference']
+[]
+False
+
+['area', 'type']
+['area']
+False
+
+['area', 'name']
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+['stars', 'type']
+['name']
+False
+
+[]
+['type']
+False
+
+['area']
+['type']
+False
+
+[]
+['type']
+False
+
+['name', 'postcode', 'price range']
+['name', 'price range']
+False
+
+['area', 'food']
+['area', 'food']
+True
+
+['food']
+['area', 'food', 'name', 'price range']
+False
+
+['area', 'food', 'name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['postcode']
+False
+
+[]
+[]
+True
+
+['type']
+['area', 'type']
+False
+
+['area', 'type']
+['area', 'name', 'type']
+False
+
+['name', 'phone']
+['name', 'phone', 'type']
+False
+
+[]
+['area', 'food']
+False
+
+[]
+['area', 'food']
+False
+
+[]
+[]
+True
+
+['area', 'food', 'name', 'price range']
+['food', 'name']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food', 'name', 'price range']
+['food', 'name', 'price range']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'food', 'price range']
+['area', 'food']
+False
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'name']
+['area']
+False
+
+['type']
+[]
+False
+
+[]
+[]
+True
+
+[]
+['name', 'postcode']
+False
+
+['name']
+['area']
+False
+
+['area']
+['area']
+True
+
+['food']
+['food']
+True
+
+['name']
+['address', 'name']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['address', 'food', 'name']
+['name', 'price range']
+False
+
+[]
+[]
+True
+
+['area', 'food']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'food', 'name']
+['area', 'food', 'name', 'price range']
+False
+
+['time']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'price range']
+['food', 'name', 'price range']
+False
+
+['address']
+[]
+False
+
+['postcode']
+['area']
+False
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area']
+False
+
+['address', 'postcode']
+['address', 'postcode']
+True
+
+['area', 'type']
+['area']
+False
+
+['area', 'name']
+['address', 'name']
+False
+
+['address', 'name', 'price range', 'stars']
+['address']
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'price range']
+[]
+False
+
+['address', 'name', 'phone', 'postcode']
+['address', 'area', 'food', 'name', 'phone', 'price range']
+False
+
+['area', 'name', 'price range']
+['area', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['food']
+False
+
+['name']
+['name', 'reference', 'time']
+False
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+['area', 'food', 'name']
+False
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['price range', 'type']
+['name', 'type']
+False
+
+[]
+['area', 'name', 'price range', 'type']
+False
+
+['name']
+['area', 'name', 'price range']
+False
+
+['name', 'postcode']
+['postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['food', 'price range']
+False
+
+[]
+['name', 'reference', 'time']
+False
+
+[]
+['name', 'reference', 'time']
+False
+
+[]
+['name', 'reference', 'time']
+False
+
+['time']
+['name', 'reference', 'time']
+False
+
+['time']
+['reference', 'time']
+False
+
+['time']
+['reference', 'time']
+False
+
+[]
+['name', 'reference', 'time']
+False
+
+['name', 'reference']
+['name', 'reference', 'time']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+[]
+False
+
+['area', 'food']
+['area', 'food']
+True
+
+['area', 'food', 'name', 'postcode', 'price range']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+['area', 'name', 'type']
+[]
+False
+
+['postcode']
+['name', 'phone', 'postcode']
+False
+
+['name']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'food']
+False
+
+['area', 'food']
+[]
+False
+
+['address', 'name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['name', 'reference', 'time']
+['name', 'reference', 'time']
+True
+
+[]
+[]
+True
+
+['area', 'name', 'price range']
+['food', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+[]
+[]
+True
+
+['area', 'name']
+['address', 'name']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food']
+['area', 'food']
+False
+
+['area', 'price range']
+['name']
+False
+
+['name', 'reference']
+['name', 'reference']
+True
+
+['name', 'price range']
+['area', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['address', 'postcode']
+['address']
+False
+
+['area', 'type']
+['area', 'type']
+True
+
+['area']
+['area', 'type']
+False
+
+['address', 'name', 'phone', 'postcode']
+['name']
+False
+
+[]
+[]
+True
+
+['area', 'food', 'name', 'phone', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+['name']
+['food']
+False
+
+[]
+[]
+True
+
+['reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+['reference']
+[]
+False
+
+['address', 'name', 'postcode']
+['address']
+False
+
+['phone']
+['phone']
+True
+
+['address']
+['address']
+True
+
+['phone']
+[]
+False
+
+[]
+['stars', 'type']
+False
+
+['area', 'price range', 'type']
+[]
+False
+
+[]
+['reference']
+False
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+['price range', 'type']
+['area', 'price range', 'type']
+False
+
+[]
+['area', 'price range', 'stars', 'type']
+False
+
+['address', 'name', 'postcode', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'food']
+['area', 'food']
+True
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+['reference', 'time']
+['reference']
+False
+
+['price range']
+['area', 'name']
+False
+
+['name']
+['area']
+False
+
+[]
+['reference']
+False
+
+[]
+['reference']
+False
+
+[]
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['name', 'phone']
+['area', 'type']
+False
+
+[]
+['name']
+False
+
+['name', 'price range']
+['name']
+False
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food']
+['area', 'food', 'name']
+False
+
+['price range']
+['area', 'food']
+False
+
+['area', 'food', 'name']
+['area', 'food', 'name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['food']
+False
+
+['reference']
+['name', 'reference', 'time']
+False
+
+[]
+['area', 'type']
+False
+
+['area', 'name', 'stars']
+['area', 'type']
+False
+
+['name']
+[]
+False
+
+['address', 'phone']
+['address', 'phone']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name']
+False
+
+['name']
+['address', 'name', 'postcode']
+False
+
+['address', 'name', 'price range']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'name']
+False
+
+['area', 'phone']
+['area', 'name', 'phone']
+False
+
+[]
+[]
+True
+
+['address', 'name', 'price range', 'type']
+['name', 'type']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'price range', 'type']
+['area', 'price range', 'stars', 'type']
+False
+
+['type']
+['area', 'price range', 'type']
+False
+
+['name', 'price range']
+['area', 'name', 'price range', 'type']
+False
+
+['postcode']
+[]
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['area', 'name', 'price range', 'type']
+['name', 'reference']
+False
+
+['name', 'price range', 'type']
+['name', 'reference']
+False
+
+[]
+['postcode']
+False
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'name']
+False
+
+['address', 'area', 'name', 'phone', 'postcode']
+['area', 'name']
+False
+
+['postcode']
+['postcode']
+True
+
+['name']
+['area', 'food', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference', 'time']
+['reference']
+False
+
+['area', 'price range']
+['food', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'name', 'phone']
+['address', 'name', 'postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'name']
+['area', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area']
+False
+
+['name', 'phone']
+['phone']
+False
+
+['name']
+['name', 'price range']
+False
+
+['address', 'name', 'postcode']
+['address']
+False
+
+[]
+[]
+True
+
+[]
+['food']
+False
+
+[]
+[]
+True
+
+['name']
+['name']
+True
+
+['stars']
+['type']
+False
+
+['area', 'name']
+['area', 'name', 'stars']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+['name']
+['address', 'postcode']
+False
+
+[]
+['address']
+False
+
+['address']
+['address']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+['food']
+False
+
+['price range']
+['area', 'name']
+False
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+True
+
+['phone']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['stars', 'type']
+[]
+False
+
+['area', 'name', 'price range']
+['area', 'name', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'price range', 'stars']
+[]
+False
+
+['reference']
+[]
+False
+
+['area', 'name', 'phone']
+[]
+False
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['food', 'name']
+[]
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'food', 'name', 'price range']
+False
+
+['name']
+['area', 'name', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['address', 'name']
+['type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'price range', 'stars']
+False
+
+[]
+['type']
+False
+
+['area', 'name', 'price range', 'type']
+['name']
+False
+
+[]
+[]
+True
+
+['type']
+['name', 'reference']
+False
+
+[]
+['name', 'reference']
+False
+
+[]
+['area', 'name', 'price range']
+False
+
+['name', 'price range', 'reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area']
+False
+
+['area', 'type']
+['type']
+False
+
+['area', 'type']
+['area']
+False
+
+['type']
+['area', 'name', 'type']
+False
+
+['address', 'name']
+['address', 'name']
+True
+
+['address', 'name']
+['address', 'name']
+True
+
+[]
+[]
+True
+
+['name', 'stars', 'type']
+['name', 'stars', 'type']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food', 'name']
+[]
+False
+
+['reference']
+['reference', 'time']
+False
+
+[]
+[]
+True
+
+[]
+['area']
+False
+
+['area']
+['area']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'price range']
+False
+
+[]
+['food', 'name']
+False
+
+['address', 'name']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['address']
+['food', 'name', 'price range']
+False
+
+['price range']
+['name', 'phone', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'area', 'name']
+['area', 'type']
+False
+
+['phone']
+['phone']
+True
+
+['area']
+['address', 'area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['name', 'phone', 'price range']
+['phone']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food']
+['food', 'name']
+False
+
+['time']
+[]
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'name', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'stars']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'food', 'price range']
+False
+
+['name']
+['area', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area']
+['area', 'name', 'type']
+False
+
+['address', 'name', 'phone']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+['name', 'type']
+['area', 'type']
+False
+
+['name', 'phone']
+['name', 'phone']
+True
+
+['address', 'area', 'name', 'phone', 'postcode']
+['area', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['address']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['time']
+False
+
+['reference']
+['reference']
+True
+
+['area', 'type']
+['type']
+False
+
+['address', 'name']
+['name']
+False
+
+['type']
+['area', 'stars', 'type']
+False
+
+['area', 'name', 'price range', 'stars', 'type']
+['name']
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['food', 'price range']
+[]
+False
+
+['area', 'food', 'price range']
+['area', 'food', 'price range']
+True
+
+['name']
+['address', 'name']
+False
+
+['name']
+['name']
+True
+
+['reference']
+['reference']
+True
+
+['type']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'name', 'stars']
+['area', 'name']
+False
+
+['area']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'type']
+['area', 'type']
+False
+
+['address', 'phone', 'postcode']
+['phone']
+False
+
+['area', 'name', 'type']
+['name']
+False
+
+['name', 'postcode']
+['name', 'postcode']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food']
+['area', 'food']
+False
+
+['address', 'name']
+['name']
+False
+
+['address', 'phone', 'postcode']
+['postcode']
+False
+
+[]
+['area', 'price range']
+False
+
+['address', 'food', 'name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference', 'time']
+False
+
+['area', 'name', 'price range', 'stars']
+['price range', 'type']
+False
+
+['address', 'name']
+['address', 'name']
+True
+
+[]
+[]
+True
+
+['stars', 'type']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food', 'price range']
+['food', 'price range']
+True
+
+[]
+['area', 'food', 'name', 'price range']
+False
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'price range']
+False
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['price range', 'stars', 'type']
+[]
+False
+
+['area']
+['name', 'reference']
+False
+
+['area', 'name', 'price range', 'stars', 'type']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+['address']
+['address', 'name']
+False
+
+['area']
+['area']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name']
+False
+
+['area', 'name', 'price range', 'type']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'food']
+['area', 'food']
+True
+
+['area', 'food']
+['area', 'food', 'price range']
+False
+
+['area', 'food', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+['address', 'food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+['type']
+['name']
+False
+
+[]
+['address', 'area', 'name', 'type']
+False
+
+[]
+['address', 'name', 'phone', 'postcode']
+False
+
+['area', 'name', 'phone', 'postcode']
+['address', 'name', 'type']
+False
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+['stars']
+[]
+False
+
+[]
+['price range', 'type']
+False
+
+['type']
+['area', 'name']
+False
+
+[]
+['name']
+False
+
+['area', 'food']
+[]
+False
+
+['address', 'area', 'name']
+['address', 'name']
+False
+
+[]
+['price range', 'type']
+False
+
+['name', 'postcode']
+['postcode']
+False
+
+[]
+['postcode']
+False
+
+['name', 'postcode']
+[]
+False
+
+['price range', 'type']
+['price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+['area', 'name', 'type']
+['area', 'name', 'type']
+True
+
+['area', 'name']
+['area']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'type']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['area', 'type']
+False
+
+['name', 'price range', 'stars']
+['area', 'type']
+False
+
+['area']
+['area']
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'food']
+['area', 'food']
+True
+
+['area', 'food', 'price range']
+['area', 'food']
+False
+
+['name', 'postcode', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+['phone']
+['name']
+False
+
+[]
+[]
+True
+
+['area', 'type']
+[]
+False
+
+['address', 'name']
+['area', 'name', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['area', 'name']
+['area']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'phone']
+['phone']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+['address', 'name']
+['address', 'name']
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area']
+False
+
+[]
+[]
+True
+
+['address', 'area']
+['area', 'name']
+False
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'name']
+False
+
+['area', 'name', 'phone']
+['name', 'phone']
+False
+
+['name']
+['area', 'name', 'price range', 'stars']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'area', 'food', 'name']
+['name']
+False
+
+[]
+[]
+True
+
+['reference', 'time']
+['name', 'reference', 'time']
+False
+
+['area', 'name', 'type']
+['area', 'name']
+False
+
+['area']
+[]
+False
+
+[]
+['area', 'food', 'name']
+False
+
+['food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['area', 'food', 'price range']
+['area', 'food', 'price range']
+True
+
+['address', 'name', 'phone', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name', 'reference', 'time']
+False
+
+['reference']
+['reference']
+True
+
+[]
+['name']
+False
+
+['food']
+['area', 'food', 'name', 'price range']
+False
+
+['address', 'area', 'name', 'phone', 'postcode']
+['address', 'name', 'postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['price range', 'type']
+False
+
+['name', 'price range']
+['name', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['price range', 'type']
+[]
+False
+
+['name']
+['type']
+False
+
+['address', 'name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'postcode']
+['address']
+False
+
+[]
+[]
+True
+
+['address', 'area', 'name']
+['price range']
+False
+
+['name', 'price range']
+['area', 'name', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+['name', 'phone', 'type']
+['name', 'phone', 'type']
+True
+
+[]
+[]
+True
+
+['name', 'price range']
+['area', 'food', 'name', 'price range']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['area', 'type']
+['area', 'name', 'type']
+False
+
+['name', 'postcode']
+['area', 'name', 'postcode', 'type']
+False
+
+[]
+[]
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['name', 'type']
+['name']
+False
+
+['postcode']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food']
+['area', 'food', 'name', 'price range']
+False
+
+['area', 'food', 'name', 'price range']
+['area', 'price range', 'type']
+False
+
+['address']
+['area', 'name', 'type']
+False
+
+['area']
+[]
+False
+
+['area', 'name']
+['type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'name']
+['food', 'name']
+False
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['name']
+['type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'name', 'type']
+False
+
+['postcode']
+['postcode']
+True
+
+['area', 'price range']
+['area']
+False
+
+[]
+['name']
+False
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+['area', 'name', 'type']
+['name']
+False
+
+['area']
+['area', 'name']
+False
+
+['area', 'type']
+['area', 'price range', 'type']
+False
+
+['area', 'type']
+['area', 'name', 'price range', 'type']
+False
+
+['area', 'type']
+['name']
+False
+
+['area', 'name', 'price range', 'stars', 'type']
+['type']
+False
+
+[]
+['name', 'reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['name']
+[]
+False
+
+['phone']
+['phone']
+True
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+['name']
+['name', 'type']
+False
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+[]
+['name', 'reference']
+False
+
+['area', 'name', 'price range', 'stars']
+['type']
+False
+
+[]
+['reference']
+False
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+['address', 'area', 'name', 'phone', 'stars']
+['type']
+False
+
+['area', 'name', 'phone']
+['name', 'stars']
+False
+
+['reference']
+[]
+False
+
+[]
+['area', 'type']
+False
+
+['area', 'food']
+['area', 'food']
+True
+
+[]
+['area', 'food']
+False
+
+['price range']
+['area', 'food', 'name']
+False
+
+['name', 'price range']
+['area', 'food', 'price range']
+False
+
+[]
+[]
+True
+
+['phone']
+['phone']
+True
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+['name', 'postcode']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'food']
+['food', 'name']
+False
+
+[]
+[]
+True
+
+['reference']
+[]
+False
+
+['name', 'price range']
+['name']
+False
+
+[]
+[]
+True
+
+['area', 'price range', 'type']
+[]
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['price range']
+['type']
+False
+
+['area', 'name', 'price range', 'stars', 'type']
+['name', 'stars']
+False
+
+['name']
+[]
+False
+
+['phone']
+['phone']
+True
+
+[]
+['area']
+False
+
+['address', 'name', 'price range']
+['area', 'food', 'name']
+False
+
+['reference', 'time']
+[]
+False
+
+['area']
+['area', 'name', 'type']
+False
+
+['address', 'name']
+['area', 'name', 'phone']
+False
+
+['postcode']
+['postcode']
+True
+
+['address', 'area', 'name']
+['address']
+False
+
+[]
+[]
+True
+
+['name', 'price range']
+['area', 'name', 'price range']
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+['area', 'price range', 'type']
+False
+
+['name', 'stars', 'type']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'price range']
+['area', 'price range', 'type']
+False
+
+[]
+[]
+True
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+['address', 'area', 'name']
+['food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['area', 'type']
+['area']
+False
+
+['address', 'name', 'phone']
+['address', 'name', 'phone']
+True
+
+['area', 'name', 'stars']
+['type']
+False
+
+['area', 'price range', 'type']
+['area']
+False
+
+['name', 'phone', 'postcode', 'price range']
+['name', 'postcode', 'price range']
+False
+
+[]
+['area', 'type']
+False
+
+['name']
+['area', 'type']
+False
+
+['address']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+['area']
+['area', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+['address', 'area', 'name', 'type']
+['area', 'name']
+False
+
+['reference']
+[]
+False
+
+['address', 'name']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+['name']
+['area', 'name']
+False
+
+['address', 'phone', 'postcode']
+['address', 'name', 'postcode']
+False
+
+[]
+['area', 'type']
+False
+
+['name']
+['name']
+True
+
+['address', 'name', 'phone', 'postcode']
+['address', 'phone', 'postcode']
+False
+
+['area', 'type']
+['area', 'type']
+True
+
+['name', 'postcode']
+['area', 'name', 'postcode', 'type']
+False
+
+[]
+[]
+True
+
+['type']
+['type']
+True
+
+[]
+['area', 'name']
+False
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['area', 'name', 'type']
+False
+
+[]
+['address', 'name', 'phone']
+False
+
+[]
+['name']
+False
+
+['area', 'type']
+[]
+False
+
+['area', 'name', 'postcode']
+['area', 'name', 'postcode', 'type']
+False
+
+['area', 'name', 'postcode']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['area', 'name', 'type']
+False
+
+['address', 'name', 'phone', 'postcode']
+['name', 'phone']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'type']
+False
+
+['area', 'name']
+['area', 'name']
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['area']
+[]
+False
+
+['address', 'name', 'reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'price range']
+['area', 'price range']
+True
+
+['address', 'food', 'name']
+['area', 'food', 'name', 'price range']
+False
+
+['reference']
+['reference']
+True
+
+['name', 'phone']
+['address', 'area', 'name', 'phone', 'type']
+False
+
+['address', 'phone']
+['address', 'name']
+False
+
+['address', 'area', 'name']
+[]
+False
+
+['name']
+['area', 'name', 'phone']
+False
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area']
+False
+
+[]
+['address']
+False
+
+[]
+[]
+True
+
+['food']
+['name']
+False
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+['name', 'reference']
+['name', 'reference']
+True
+
+[]
+[]
+True
+
+['area', 'food', 'price range']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name']
+['area', 'name']
+True
+
+['address']
+['address']
+True
+
+['name']
+['price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'name']
+['area', 'name', 'type']
+False
+
+['food']
+['name']
+False
+
+['name', 'price range']
+['area', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'name', 'type']
+False
+
+['area']
+[]
+False
+
+['area', 'type']
+['area', 'name', 'type']
+False
+
+['name', 'type']
+['area', 'name', 'type']
+False
+
+['phone']
+['address', 'name', 'phone', 'postcode']
+False
+
+['address', 'postcode']
+['address', 'postcode']
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'food', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name', 'reference', 'time']
+False
+
+['reference']
+['reference', 'time']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'food']
+False
+
+['food', 'name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['address']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'food']
+['area', 'food']
+True
+
+['area', 'food', 'price range']
+['area', 'food', 'price range']
+True
+
+['address', 'name']
+['address', 'name']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'food', 'price range']
+False
+
+['address', 'name', 'phone']
+['phone']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'name', 'postcode', 'price range']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'price range', 'stars']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['address', 'name']
+['area', 'food']
+False
+
+['address', 'phone', 'price range']
+['price range']
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+['name']
+['area', 'name', 'type']
+False
+
+['postcode']
+['postcode']
+True
+
+['type']
+['area']
+False
+
+['area', 'type']
+['area', 'type']
+True
+
+[]
+['area', 'type']
+False
+
+['address', 'name', 'phone', 'postcode']
+['address', 'name', 'phone', 'postcode']
+True
+
+[]
+[]
+True
+
+[]
+['area', 'food']
+False
+
+['area', 'food', 'name', 'price range']
+['address', 'name']
+False
+
+['postcode']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['price range']
+['price range']
+True
+
+['area', 'food', 'name', 'price range']
+[]
+False
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+['area']
+[]
+False
+
+[]
+['area', 'food']
+False
+
+[]
+['name']
+False
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+True
+
+[]
+[]
+True
+
+['name']
+[]
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['name', 'phone', 'postcode']
+['phone', 'postcode']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+['area', 'name']
+False
+
+['area', 'name', 'postcode', 'type']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+['area', 'name', 'price range', 'type']
+['price range', 'type']
+False
+
+['name', 'price range']
+['name', 'price range', 'type']
+False
+
+['name', 'price range', 'stars', 'type']
+['stars']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food', 'name']
+['name']
+False
+
+['name', 'reference']
+['name', 'reference']
+True
+
+[]
+[]
+True
+
+['name', 'type']
+['area', 'type']
+False
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food']
+['address', 'phone']
+False
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name']
+[]
+False
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference', 'time']
+False
+
+[]
+[]
+True
+
+['type']
+['area', 'name', 'type']
+False
+
+['area', 'name']
+['area', 'name']
+True
+
+['phone', 'postcode']
+['postcode']
+False
+
+['area', 'food']
+['name', 'reference', 'time']
+False
+
+['area', 'name']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['type']
+['area']
+False
+
+['area']
+['type']
+False
+
+['name']
+['area', 'name', 'stars']
+False
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['name']
+['reference']
+False
+
+['name', 'price range', 'stars']
+[]
+False
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food', 'name', 'price range']
+['area', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['name', 'reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+['address', 'name']
+['stars', 'type']
+False
+
+[]
+[]
+True
+
+['area', 'food', 'price range']
+['area', 'food', 'name']
+False
+
+['name', 'price range']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+['address', 'name', 'stars']
+['address', 'name']
+False
+
+['reference']
+[]
+False
+
+['address', 'name']
+['area']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food']
+['food']
+True
+
+['address', 'name']
+['food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+['reference', 'time']
+False
+
+['name', 'reference']
+['reference', 'time']
+False
+
+['name']
+[]
+False
+
+['reference']
+['name']
+False
+
+[]
+['area']
+False
+
+['area', 'food', 'name', 'price range']
+['name']
+False
+
+[]
+['reference']
+False
+
+[]
+[]
+True
+
+['name', 'reference', 'time']
+['reference', 'time']
+False
+
+[]
+[]
+True
+
+['area', 'food']
+['area', 'food']
+True
+
+['food']
+['area', 'food']
+False
+
+['food']
+['area', 'price range']
+False
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['name', 'phone']
+['name', 'phone']
+True
+
+['price range']
+[]
+False
+
+['name', 'price range']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['address']
+['address', 'name']
+False
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food']
+['area', 'food', 'name', 'price range']
+False
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+['address']
+['address']
+True
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+[]
+['area', 'food']
+False
+
+[]
+['area', 'food']
+False
+
+[]
+['area', 'food', 'name', 'price range']
+False
+
+['area', 'name', 'price range']
+['name']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['area', 'type']
+['area', 'type']
+True
+
+['address', 'name', 'type']
+['area', 'type']
+False
+
+['address', 'name']
+[]
+False
+
+[]
+['price range', 'type']
+False
+
+['area', 'type']
+['area', 'type']
+True
+
+[]
+['name', 'reference']
+False
+
+['name', 'reference']
+['name', 'reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['area', 'price range', 'type']
+False
+
+['type']
+['area', 'price range', 'type']
+False
+
+['name']
+['name']
+True
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+['area', 'food']
+False
+
+['food', 'name']
+['area', 'food']
+False
+
+[]
+[]
+True
+
+['name', 'postcode', 'price range']
+['postcode', 'price range']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'type']
+['area', 'name']
+False
+
+[]
+[]
+True
+
+['reference']
+['name', 'reference']
+False
+
+[]
+['food', 'price range']
+False
+
+['address', 'food', 'name']
+['food', 'name']
+False
+
+['area', 'price range']
+['name']
+False
+
+['area', 'food', 'name', 'price range']
+['name']
+False
+
+['address', 'postcode']
+['address', 'postcode']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+['type']
+['type']
+True
+
+['type']
+[]
+False
+
+['address', 'area', 'name', 'postcode']
+['address', 'name', 'postcode']
+False
+
+[]
+['food']
+False
+
+['address', 'name']
+['address', 'name']
+True
+
+[]
+['area']
+False
+
+[]
+[]
+True
+
+[]
+['address']
+False
+
+['area', 'price range']
+[]
+False
+
+['area', 'food', 'price range']
+['name']
+False
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['address', 'area', 'type']
+['area']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['type']
+[]
+False
+
+['area', 'type']
+['area', 'type']
+True
+
+['name']
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+['food']
+['area', 'food']
+False
+
+['address', 'area', 'food', 'name', 'phone', 'postcode', 'price range']
+['address', 'name', 'phone', 'postcode']
+False
+
+[]
+[]
+True
+
+[]
+['type']
+False
+
+[]
+['type']
+False
+
+['name']
+['name', 'reference']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+['area', 'food']
+False
+
+['food', 'name', 'reference']
+['name', 'reference', 'time']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+['area', 'type']
+False
+
+['type']
+['type']
+True
+
+['name', 'postcode']
+['name', 'postcode']
+True
+
+['price range']
+['area']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food']
+['area', 'food', 'name']
+False
+
+['address', 'food', 'name', 'price range']
+['area', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+['price range']
+['price range']
+True
+
+['stars', 'type']
+['area', 'name', 'price range', 'type']
+False
+
+['name', 'price range', 'stars', 'type']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food']
+[]
+False
+
+['area']
+['area', 'food']
+False
+
+['address', 'name']
+[]
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'type']
+['type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food']
+['food', 'name']
+False
+
+[]
+[]
+True
+
+['address']
+['address']
+True
+
+['name']
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+[]
+['name']
+False
+
+[]
+[]
+True
+
+['area', 'price range', 'stars', 'type']
+['name', 'type']
+False
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['area', 'food', 'price range']
+False
+
+[]
+['name', 'reference', 'time']
+False
+
+['reference']
+['name', 'reference', 'time']
+False
+
+[]
+[]
+True
+
+['area', 'name', 'price range', 'stars']
+['type']
+False
+
+[]
+[]
+True
+
+['name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+['name', 'price range']
+['food', 'name', 'price range']
+False
+
+[]
+['reference']
+False
+
+['reference', 'time']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['food', 'price range']
+[]
+False
+
+[]
+['area', 'food', 'price range']
+False
+
+['address', 'name']
+['name']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'name', 'type']
+['name']
+False
+
+[]
+[]
+True
+
+['phone']
+['phone']
+True
+
+[]
+[]
+True
+
+['name', 'price range']
+['area', 'food', 'name']
+False
+
+['food', 'reference']
+['name', 'reference']
+False
+
+['area']
+['area', 'type']
+False
+
+['area', 'name']
+['area', 'name']
+True
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+['address', 'name']
+['area', 'type']
+False
+
+[]
+[]
+True
+
+['price range', 'type']
+['price range', 'type']
+True
+
+['area', 'name', 'price range']
+['type']
+False
+
+['area', 'type']
+['type']
+False
+
+['name']
+['name']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['reference']
+False
+
+['reference']
+['reference']
+True
+
+['name', 'phone']
+[]
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['stars', 'type']
+['area', 'name', 'price range']
+False
+
+[]
+['name']
+False
+
+['name']
+['area', 'name', 'stars', 'type']
+False
+
+['area', 'name', 'stars']
+['area', 'name', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name', 'phone', 'postcode']
+['phone', 'postcode']
+False
+
+[]
+['area', 'food']
+False
+
+['food', 'name', 'price range']
+['area', 'food', 'price range']
+False
+
+['name']
+['name']
+True
+
+['reference']
+[]
+False
+
+[]
+[]
+True
+
+['area', 'type']
+['area']
+False
+
+['area', 'food']
+['area', 'food']
+True
+
+['area', 'food', 'name', 'price range']
+['area', 'food', 'name', 'price range']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+['area', 'type']
+False
+
+['address', 'area', 'name', 'phone']
+['area', 'type']
+False
+
+['name', 'postcode']
+['name']
+False
+
+['type']
+['type']
+True
+
+['address', 'name', 'postcode']
+['address', 'area', 'name']
+False
+
+['area', 'price range', 'type']
+['price range', 'type']
+False
+
+['stars', 'type']
+['area', 'price range', 'type']
+False
+
+['area']
+[]
+False
+
+[]
+['name', 'reference']
+False
+
+['reference']
+['name', 'reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area', 'food', 'price range']
+['area', 'food']
+False
+
+['name']
+['area', 'food', 'name', 'price range']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference', 'time']
+False
+
+[]
+[]
+True
+
+['type']
+[]
+False
+
+['name']
+['name', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['price range', 'type']
+['price range', 'type']
+True
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+['address', 'postcode']
+['name']
+False
+
+[]
+['type']
+False
+
+[]
+[]
+True
+
+['area', 'food', 'name']
+['area']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+['name', 'reference', 'time']
+False
+
+['address', 'name', 'reference']
+['reference']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['name']
+['type']
+False
+
+['area', 'name', 'price range', 'stars']
+['reference']
+False
+
+['name']
+['area', 'price range', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['area']
+['area']
+True
+
+['area', 'food']
+['area', 'food']
+True
+
+['food', 'price range']
+['area', 'food', 'name', 'stars']
+False
+
+['address', 'name']
+['address', 'area', 'name', 'type']
+False
+
+['area', 'name', 'type']
+['area', 'name', 'type']
+True
+
+['address', 'phone']
+['address', 'phone']
+True
+
+['address', 'name', 'type']
+['area', 'name', 'type']
+False
+
+[]
+[]
+True
+
+['postcode']
+['postcode']
+True
+
+[]
+[]
+True
+
+['price range', 'type']
+['type']
+False
+
+['type']
+['price range', 'type']
+False
+
+['name', 'phone', 'stars']
+['area', 'name', 'stars', 'type']
+False
+
+[]
+[]
+True
+
+['area', 'food']
+['area', 'food', 'name']
+False
+
+[]
+[]
+True
+
+['reference']
+['reference']
+True
+
+['address', 'area', 'phone', 'type']
+['name', 'type']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['address', 'name', 'phone']
+['area']
+False
+
+[]
+[]
+True
+
+['food']
+['food']
+True
+
+[]
+['area']
+False
+
+['name']
+['name', 'reference', 'time']
+False
+
+[]
+[]
+True
+
+[]
+[]
+True
+
+['reference']
+['reference', 'time']
+False
+
+[]
+[]
+True
+
+['name', 'phone', 'postcode']
+['name', 'phone']
+False
+
+[]
+[]
+True
+
+[]
+['area']
+False
+
+['address', 'name']
+['address', 'name']
+True
+
